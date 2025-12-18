@@ -22,72 +22,72 @@ $selected = "story";
     <div class="column">
         <h2>Alliances</h2>
         <h3>Season One</h3>
-        <p>101 <a href="docs/alliances/101-the-beginning.pdf" target="_blank">The Beginning</a>
+        <p>101 <a href="docs/alliances/100/101-the-beginning.pdf" target="_blank">The Beginning</a>
             Major Jack O'Brien, after having survived an Earth Civil War, takes command of
             a space station on the edge of the frontier.</p>
 
-        <p>102 <a href="docs/alliances/102-travelers.pdf" target="_blank">Travelers</a>
+        <p>102 <a href="docs/alliances/100/102-travelers.pdf" target="_blank">Travelers</a>
             Three strangers come aboard the station with information that could change the
             future of the Shuka people.</p>
 
-        <p>103 <a href="docs/alliances/103-epidemic.pdf" target="_blank">Epidemic</a>
+        <p>103 <a href="docs/alliances/100/103-epidemic.pdf" target="_blank">Epidemic</a>
             A dangerous sickness invades the station.</p>
 
-	<p>104 <a href="docs/alliances/104-teleportation.pdf" target="_blank">Teleportation</a>
+	<p>104 <a href="docs/alliances/100/104-teleportation.pdf" target="_blank">Teleportation</a>
 	    Everyone teleports these days, but what if it's not safe?</p>
 
-	<p>105 <a href="docs/alliances/105-the-journey.pdf" target="_blank">The Journey</a>
+	<p>105 <a href="docs/alliances/100/105-the-journey.pdf" target="_blank">The Journey</a>
 	    A mysterious warship appears from parts unknown.</p>
 
-	<p>106 <a href="docs/alliances/106-cellmate.pdf" target="_blank">Cellmate</a>
+	<p>106 <a href="docs/alliances/100/106-cellmate.pdf" target="_blank">Cellmate</a>
 	    Jack O'Brien is kept in a prison cell with an unlikely possibility.</p>
 
-	<p>107 <a href="docs/alliances/107-home-again.pdf" target="_blank">Home Again</a>
+	<p>107 <a href="docs/alliances/100/107-home-again.pdf" target="_blank">Home Again</a>
 	    Jack and the others return to the station, a dock worker is inhabited by an alien force.</p>
 
-	<p>108 <a href="docs/alliances/108-walking-death.pdf" target="_blank">Walking Death</a>
+	<p>108 <a href="docs/alliances/100/108-walking-death.pdf" target="_blank">Walking Death</a>
 	     Jack learns some startling discoveries about his time in a Dubor prison. Kate has a runin with an old acquaintance.</p>
 
-	<p>109 <a href="docs/alliances/109-forgotten-but-not-lost.pdf" target="_blank">Forgotten But Not Lost</a>
+	<p>109 <a href="docs/alliances/100/109-forgotten-but-not-lost.pdf" target="_blank">Forgotten But Not Lost</a>
 	     Two Dubor scientists make a discovery about the war with Shuka 100 years ago. O'Brien, under orders, grills Grilka.</p>
 
-	<p>110 <a href="docs/alliances/110-armor-of-light.pdf" target="_blank">Armor Of Light</a>
+	<p>110 <a href="docs/alliances/100/110-armor-of-light.pdf" target="_blank">Armor Of Light</a>
 	    Evidence is uncovered regarding the first war between the Dubor and Shuka races.</p>
 
-	<p>111 <a href="docs/alliances/111-book-of-aliens.pdf" target="_blank">Who Wrote The Book Of Aliens?</a>
+	<p>111 <a href="docs/alliances/100/111-book-of-aliens.pdf" target="_blank">Who Wrote The Book Of Aliens?</a>
 	    Jack digs deeper into his ancestors past.</p>
 
-	<p>112 <a href="docs/alliances/112-rainfall.pdf" target="_blank">Rainfall</a>
+	<p>112 <a href="docs/alliances/100/112-rainfall.pdf" target="_blank">Rainfall</a>
 	    A visitng captain comes to the station to ask Jack O'Brien some hard questions.</p>
 
-	<p>113 <a href="docs/alliances/113-end-of-the-line.pdf" target="_blank">End Of The Line</a>
+	<p>113 <a href="docs/alliances/100/113-end-of-the-line.pdf" target="_blank">End Of The Line</a>
 	    Commander Bert McDuff has been receiving help in a rehab facility for the past six months. All is not what it seems.</p>
 
-	<p>114 <a href="docs/alliances/114--mind--frag.pdf" target="_blank">Mind Frag</a>
+	<p>114 <a href="docs/alliances/100/114--mind--frag.pdf" target="_blank">Mind Frag</a>
 	    The U.S.S. Fearless arrives at the station after a long assignment for some R&R, that's where the trouble begins.</p>
 
-	<p>115 <a href="docs/alliances/115-blood-on-the-highway.pdf" target="_blank">Blood On The Highway</a>
+	<p>115 <a href="docs/alliances/100/115-blood-on-the-highway.pdf" target="_blank">Blood On The Highway</a>
 	    Two acts of terrorism face the United Earth Force Alliance.</p>
 
-	<p>116 <a href="docs/alliances/116-crossing-the-line.pdf" target="_blank">Crossing The Line</a>
+	<p>116 <a href="docs/alliances/100/116-crossing-the-line.pdf" target="_blank">Crossing The Line</a>
 	    Life aboard the station is getting used to a new war being fought. A few surprises happen on Crimson Gamma.</p>
 
-	<p>117 <a href="docs/alliances/117-change-in-command.pdf" target="_blank">Change In Command</a>
+	<p>117 <a href="docs/alliances/100/117-change-in-command.pdf" target="_blank">Change In Command</a>
 	    With a new command staff in place, it doesn't sit well with O'Brien who decides to look into a Shuka and Dubor prophecy.</p>
 
-	<p>118 <a href="docs/alliances/118-hidden-gems.pdf" target="_blank">Hidden Gems</a>
+	<p>118 <a href="docs/alliances/100/118-hidden-gems.pdf" target="_blank">Hidden Gems</a>
 	    Jack O'Brien and the ambassadors venture down to the Shuka planet surface to hopefully gain some help with a prophecy waiting to come true.</p>
 
-	<p>119 <a href="docs/alliances/119-crimson-delta.pdf" target="_blank">Crimson Delta</a>
+	<p>119 <a href="docs/alliances/100/119-crimson-delta.pdf" target="_blank">Crimson Delta</a>
 	    As Jack commands his new assignment, he learns a lesson about war that he didn't want to relive.</p>
 
-	<p>120 <a href="docs/alliances/120-ramifications.pdf" target="_blank">Ramifications</a>
+	<p>120 <a href="docs/alliances/100/120-ramifications.pdf" target="_blank">Ramifications</a>
 	    O'Brien's torture is revisited. An unlikely man appears out of nowhere.</p>
 
-	<p>121 <a href="docs/alliances/121-nokev.pdf" target="_blank">Nokev</a>
+	<p>121 <a href="docs/alliances/100/121-nokev.pdf" target="_blank">Nokev</a>
 	    One of Shuka's celebrated and respected citizens makes a return.</p>
 
-	<p>122 <a href="docs/alliances/122-out-on-the-rim.pdf" target="_blank">Out On The Rim</a>
+	<p>122 <a href="docs/alliances/100/122-out-on-the-rim.pdf" target="_blank">Out On The Rim</a>
 	    One of Nokev's experiences on The Rim of known space. Ketish visits the Fresno.</p>
     </div>
     <div class="column">
