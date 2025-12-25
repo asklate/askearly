@@ -100,43 +100,43 @@ $selected = "story";
     </div>
     <div class="column">
         <h2>2025</h2>
-        <p><a href="docs/shadows.pdf" target="_blank">Shadows</a>
+        <p><a href="docs/2025/shadows.pdf" target="_blank">Shadows</a>
             Nothing is ever as it seems.</p>
 
         <h2>2024</h2>
-        <p><a href="docs/dull-moment.pdf" target="_blank">Never A Dull Moment</a>
+        <p><a href="docs/2024/dull-moment.pdf" target="_blank">Never A Dull Moment</a>
 	    Jennifer has a conversation with her future self.</p>
 
-        <p><a href="docs/curtain.pdf" target="_blank">The Man Behind The Curtain</a>
+        <p><a href="docs/2024/curtain.pdf" target="_blank">The Man Behind The Curtain</a>
 	    Living alone can cause some kind of fear.</p>
 
         <h2>2023</h2>
 
-        <p><a href="docs/devil.pdf" target="_blank">Deal With The Devil</a>
+        <p><a href="docs/2023/devil.pdf" target="_blank">Deal With The Devil</a>
             George goes to Hell but meets the Devil with an idea.</p>
 
         <h2>2021</h2>
 
-        <p><a href="docs/genie.pdf" target="_blank">Genie</a>
+        <p><a href="docs/2021/genie.pdf" target="_blank">Genie</a>
             Eric finds a genie and sees what happens when she begins granting wishes.</p>
 
-        <p><a href="docs/fold.pdf" target="_blank">Truth In The Fold</a>
+        <p><a href="docs/2021/fold.pdf" target="_blank">Truth In The Fold</a>
             Aliens and Humans just don't get along.</p>
 
-        <p><a href="docs/station.pdf" target="_blank">The Station</a>
+        <p><a href="docs/2021/station.pdf" target="_blank">The Station</a>
             A space station on the edge of known space where aliens mingle.</p>
 
-        <p><a href="docs/night.pdf" target="_blank">A Night Out</a>
+        <p><a href="docs/2021/night.pdf" target="_blank">A Night Out</a>
             An elephant has a night out.</p>
 
         <h2>2020</h2>
 
-        <p><a href="docs/cards.pdf" target="_blank">Cards</a>
+        <p><a href="docs/2020/cards.pdf" target="_blank">Cards</a>
             A Magician finds more than he hoped for during an act.</p>
 
         <h2>2014</h2>
 
-        <p><a href="docs/end-of-earth-3.pdf" target="_blank">End of Earth (Part 3)</a>
+        <p><a href="docs/2014/end-of-earth-3.pdf" target="_blank">End of Earth (Part 3)</a>
             The conclusion of the End of Earth Series.</p>
 
         <dl>
@@ -166,27 +166,27 @@ $selected = "story";
 
         <h2>2013</h2>
 
-        <p><a href="docs/end-of-earth-2.pdf" target="_blank">End of Earth (Part 2)</a>
+        <p><a href="docs/2013/end-of-earth-2.pdf" target="_blank">End of Earth (Part 2)</a>
             What lies below on the Ice Planet?</p>
 
         <h2>2012</h2>
 
-        <p><a href="docs/end-of-earth-1.pdf" target="_blank">End of Earth (Part 1)</a>
+        <p><a href="docs/2012/end-of-earth-1.pdf" target="_blank">End of Earth (Part 1)</a>
             Earth's last moments.</p>
 
         <h2>2004</h2>
 
-        <p><a href="docs/writers-block-sucks.pdf" target="_blank">Writer's Block Sucks</a>
+        <p><a href="docs/2004/writers-block-sucks.pdf" target="_blank">Writer's Block Sucks</a>
             Life as a vampire isn't all that great when you have writers block... or is it?</p>
 
         <h2>2003</h2>
 
-        <p><a href="docs/only-a-digit-away.pdf" target="_blank">Only A Digit Away</a>
+        <p><a href="docs/2003/only-a-digit-away.pdf" target="_blank">Only A Digit Away</a>
             Cell phones are the in thing these days... what if that's exactly what they wanted?</p>
 
         <h2>Star Trek Fan Fiction</h2>
 
-        <p><a href="docs/assimilation.pdf" target="_blank">Assimilation Season</a>
+        <p><a href="docs/fanfic/assimilation.pdf" target="_blank">Assimilation Season</a>
             What if a borg made it past the events of 2063 and connected with the borg in the future?</a></p>
     </div>
 </div>
