@@ -94,6 +94,9 @@ $selected = "story";
 
         <p>201 <a href="docs/alliances/200/201-connections.pdf" target="_blank">Connections</a>
             Captain O'Brien must undergo emergency surgery to save his life.</p>
+
+        <p>202 <a href="docs/alliances/200/202-allegiance.pdf" target="_blank">Allegiance</a>
+            General Tague has gone over the top, she orders O'Brien on a dangerous mission.</p>
     </div>
     <div class="column">
         <h2>2025</h2>
