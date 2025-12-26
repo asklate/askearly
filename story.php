@@ -139,31 +139,6 @@ $selected = "story";
         <p><a href="docs/2014/end-of-earth-3.pdf" target="_blank">End of Earth (Part 3)</a>
             The conclusion of the End of Earth Series.</p>
 
-        <dl>
-            <dt><strong>Susan</strong></dt>
-            <dd>
-                <p><a href="docs/susan/susan.pdf" target="_blank">Susan</a> (Drabble)</p>
-                <p><em>The Apartment</em></p>
-                <p><a href="docs/susan/the-cabbie.pdf" target="_blank">The Cabbie</a> (Vignette)</p>
-                <p><a href="docs/susan/the-dead.pdf" target="_blank">The Dead</a> (Drabble)</p>
-                <p><a href="docs/susan/the-bridge.pdf" target="_blank">The Bridge</a> (Drabble)</p>
-                <p><em>Lock Down</em></p>
-                <p><a href="docs/susan/lockdown.pdf" target="_blank">Lock Down</a> (Drabble)</p>
-                <p><a href="docs/susan/knees.pdf" target="_blank">On Her Knees</a> (Drabble)</p>
-                <p><a href="docs/susan/cuffed.pdf" target="_blank">Cuffed</a> (Drabble)</p>
-                <p><a href="docs/susan/the-car-ride.pdf" target="_blank">The Car Ride</a> (Vignette)</p>
-                <p><a href="docs/susan/darkness.pdf" target="_blank">Darkness</a> (Drabble)</p>
-                <p><a href="docs/susan/waiting.pdf" target="_blank">Waiting</a> (Drabble)</p>
-                <p><a href="docs/susan/warehouse.pdf" target="_blank">The Warehouse</a> (Drabble)</p>
-                <p><a href="docs/susan/questions.pdf" target="_blank">Questions</a> (Drabble)</p>
-                <p><a href="docs/susan/dunk-tank.pdf" target="_blank">Dunk Tank</a> (Drabble)</p>
-                <p><em>Misc</em></p>
-                <p><a href="docs/susan/tom.pdf" target="_blank">Tom</a> (Drabble)</p>
-                <p><a href="docs/susan/roxy.pdf" target="_blank">Roxy</a> (Drabble)</p>
-                <p><a href="docs/susan/vanessa.pdf" target="_blank">Vanessa</a> (Vignette)</p>
-            </dd>
-        </dl>
-
         <h2>2013</h2>
 
         <p><a href="docs/2013/end-of-earth-2.pdf" target="_blank">End of Earth (Part 2)</a>
@@ -188,6 +163,39 @@ $selected = "story";
 
         <p><a href="docs/fanfic/assimilation.pdf" target="_blank">Assimilation Season</a>
             What if a borg made it past the events of 2063 and connected with the borg in the future?</a></p>
+
+        <h2>Adventures of Susan The Assassin</h2>
+
+        <dl>
+            <dt><strong>Susan</strong></dt>
+            <dd>
+                <p><a href="docs/susan/susan.pdf" target="_blank">Susan</a> (Drabble)</p>
+            </dd>
+            <dt><strong>The Apartment</strong></dt>
+            <dd>
+                <p><a href="docs/susan/the-cabbie.pdf" target="_blank">The Cabbie</a> (Vignette)</p>
+                <p><a href="docs/susan/the-dead.pdf" target="_blank">The Dead</a> (Drabble)</p>
+                <p><a href="docs/susan/the-bridge.pdf" target="_blank">The Bridge</a> (Drabble)</p>
+            </dd>
+            <dt><strong>Lock Down</strong></dt>
+            <dd>
+                <p><a href="docs/susan/lockdown.pdf" target="_blank">Lock Down</a> (Drabble)</p>
+                <p><a href="docs/susan/knees.pdf" target="_blank">On Her Knees</a> (Drabble)</p>
+                <p><a href="docs/susan/cuffed.pdf" target="_blank">Cuffed</a> (Drabble)</p>
+                <p><a href="docs/susan/the-car-ride.pdf" target="_blank">The Car Ride</a> (Vignette)</p>
+                <p><a href="docs/susan/darkness.pdf" target="_blank">Darkness</a> (Drabble)</p>
+                <p><a href="docs/susan/waiting.pdf" target="_blank">Waiting</a> (Drabble)</p>
+                <p><a href="docs/susan/warehouse.pdf" target="_blank">The Warehouse</a> (Drabble)</p>
+                <p><a href="docs/susan/questions.pdf" target="_blank">Questions</a> (Drabble)</p>
+                <p><a href="docs/susan/dunk-tank.pdf" target="_blank">Dunk Tank</a> (Drabble)</p>
+            </dd>
+            <dt><strong>Misc</strong></dt>
+            <dd>
+                <p><a href="docs/susan/tom.pdf" target="_blank">Tom</a> (Drabble)</p>
+                <p><a href="docs/susan/roxy.pdf" target="_blank">Roxy</a> (Drabble)</p>
+                <p><a href="docs/susan/vanessa.pdf" target="_blank">Vanessa</a> (Vignette)</p>
+            </dd>
+        </dl>
     </div>
 </div>
 
