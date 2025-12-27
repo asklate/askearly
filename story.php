@@ -97,6 +97,9 @@ $selected = "story";
 
         <p>202 <a href="docs/alliances/200/202-allegiance.pdf" target="_blank">Allegiance</a>
             General Tague has gone over the top, she orders O'Brien on a dangerous mission.</p>
+
+        <p>203 <a href="docs/alliances/200/203-side-drop.pdf" target="_blank">Side Drop</a>
+            With the Fresno on her way to Earth, some interesting things happen on the station.</p>
     </div>
     <div class="column">
         <h2>2025</h2>
