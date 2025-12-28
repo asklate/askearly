@@ -100,6 +100,10 @@ $selected = "story";
 
         <p>203 <a href="docs/alliances/200/203-side-drop.pdf" target="_blank">Side Drop</a>
             With the Fresno on her way to Earth, some interesting things happen on the station.</p>
+
+        <p>204 <a href="docs/alliances/200/204-the-heart.pdf" target="_blank">The Heart</a>
+            On their way to Earth, the Fresno comes under attack from a Dubor warship who's carrying
+            a passenger that has answers to questions about Jack's heart.</p>
     </div>
     <div class="column">
         <h2>2025</h2>
