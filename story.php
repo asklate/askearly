@@ -104,6 +104,9 @@ $selected = "story";
         <p>204 <a href="docs/alliances/200/204-the-heart.pdf" target="_blank">The Heart</a>
             On their way to Earth, the Fresno comes under attack from a Dubor warship who's carrying
             a passenger that has answers to questions about Jack's heart.</p>
+
+        <p>205 <a href="docs/alliances/200/205-vs-the-world.pdf" target="_blank">Vs The World</a>
+            On their way to Earth, the Fresno comes across an unlikely ally.</p>
     </div>
     <div class="column">
         <h2>2025</h2>
