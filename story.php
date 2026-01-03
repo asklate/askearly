@@ -107,6 +107,9 @@ $selected = "story";
 
         <p>205 <a href="docs/alliances/200/205-vs-the-world.pdf" target="_blank">Vs The World</a>
             On their way to Earth, the Fresno comes across an unlikely ally.</p>
+
+        <p>206 <a href="docs/alliances/200/206-moments-in-time.pdf" target="_blank">Moments In Time</a>
+            Short stories about various characters in their timelines.</p>
     </div>
     <div class="column">
         <h2>2025</h2>
