@@ -110,6 +110,9 @@ $selected = "story";
 
         <p>206 <a href="docs/alliances/200/206-moments-in-time.pdf" target="_blank">Moments In Time</a>
             Short stories about various characters in their timelines.</p>
+
+        <p>207 <a href="docs/alliances/200/207-final-moments.pdf" target="_blank">Final Moments</a>
+            Jack has a mission to complete to take out President Cain at all costs.</p>
     </div>
     <div class="column">
         <h2>2025</h2>
