@@ -115,6 +115,10 @@ $selected = "story";
             Jack has a mission to complete to take out President Cain at all costs.</p>
     </div>
     <div class="column">
+        <h2>2026</h2>
+        <p><a href="docs/2026/community.pdf" target="_blank">Community</a>
+            Jessica is at a dead end job going nowhere until she meets some new friends.</p>
+
         <h2>2025</h2>
         <p><a href="docs/2025/shadows.pdf" target="_blank">Shadows</a>
             Nothing is ever as it seems.</p>
