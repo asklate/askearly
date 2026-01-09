@@ -113,6 +113,9 @@ $selected = "story";
 
         <p>207 <a href="docs/alliances/200/207-final-moments.pdf" target="_blank">Final Moments</a>
             Jack has a mission to complete to take out President Cain at all costs.</p>
+
+        <p>208 <a href="docs/alliances/200/208-so-be-it.pdf" target="_blank">So Be It</a>
+            The aftermath of the war takes its toll on the crew of the Fresno and Crimson Gamma.</p>
     </div>
     <div class="column">
         <h2>2026</h2>
