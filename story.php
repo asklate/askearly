@@ -116,6 +116,9 @@ $selected = "story";
 
         <p>208 <a href="docs/alliances/200/208-so-be-it.pdf" target="_blank">So Be It</a>
             The aftermath of the war takes its toll on the crew of the Fresno and Crimson Gamma.</p>
+
+        <p>209 <a href="docs/alliances/200/209-a-time-to-live.pdf" target="_blank">A Time To Live</a>
+            With the Fresno in for repairs the crew has time to visit with family and lvoed ones on Earth.</p>
     </div>
     <div class="column">
         <h2>2026</h2>
