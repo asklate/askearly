@@ -119,6 +119,9 @@ $selected = "story";
 
         <p>209 <a href="docs/alliances/200/209-a-time-to-live.pdf" target="_blank">A Time To Live</a>
             With the Fresno in for repairs the crew has time to visit with family and loved ones on Earth.</p>
+
+        <p>210 <a href="docs/alliances/200/210-objects-in-motion.pdf" target="_blank">Objects In Motion</a>
+            Being on the road there's no stopping, space is no different. When the universe calls you go.</p>
     </div>
     <div class="column">
         <h2>2026</h2>
