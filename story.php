@@ -122,6 +122,10 @@ $selected = "story";
 
         <p>210 <a href="docs/alliances/200/210-objects-in-motion.pdf" target="_blank">Objects In Motion</a>
             Being on the road there's no stopping, space is no different. When the universe calls you go.</p>
+
+        <p>211 <a href="docs/alliances/200/211-reunion.pdf" target="_blank">Reunion</a>
+            Many of Fresno's crew are reunited with one thing or another. Sometimes it can be a good
+            reunion, and sometimes it can be a bad one. Either way they're reunions.</p>
     </div>
     <div class="column">
         <h2>2026</h2>
