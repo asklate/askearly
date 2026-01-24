@@ -132,6 +132,9 @@ $selected = "story";
         <p><a href="docs/2026/community.pdf" target="_blank">Community</a>
             Jessica is at a dead end job going nowhere until she meets some new friends.</p>
 
+        <p><a href="docs/2026/time-travel.pdf" target="_blank">Time Travel</a>
+            Frank and Sam are time travelers. These are some of their experiences.</p>
+
         <h2>2025</h2>
         <p><a href="docs/2025/shadows.pdf" target="_blank">Shadows</a>
             Nothing is ever as it seems.</p>
