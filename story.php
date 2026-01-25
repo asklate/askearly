@@ -126,6 +126,9 @@ $selected = "story";
         <p>211 <a href="docs/alliances/200/211-reunion.pdf" target="_blank">Reunion</a>
             Many of Fresno's crew are reunited with one thing or another. Sometimes it can be a good
             reunion, and sometimes it can be a bad one. Either way they're reunions.</p>
+
+        <p>212 <a href="docs/alliances/200/212-he-who-laughs-last.pdf" target="_blank">He Who Laughs Last</a>
+            Dubor takes over a small planet in the Comeki Star System. Grilka and Jack talk.</p>
     </div>
     <div class="column">
         <h2>2026</h2>
