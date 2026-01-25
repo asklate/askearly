@@ -18,6 +18,11 @@ $selected = "story";
 
         <p><a href="docs/thoughts/religion.pdf" target="_blank">Religion</a> can mean a lot of things to a
             lot of different people. This is a look at the LDS church and its teachings.</p>
+
+        <h2>Series</h2>
+
+        <p><a href="/alliances.php">Alliances</a> A series set on an outpost at the edge of
+            explored space by the United Earth Force Alliance.</p>
     </div>
     <div class="column">
         <h2>2026</h2>
@@ -86,8 +91,6 @@ $selected = "story";
 
         <p><a href="docs/2003/only-a-digit-away.pdf" target="_blank">Only A Digit Away</a>
             Cell phones are the in thing these days... what if that's exactly what they wanted?</p>
-
-
     </div>
     <div class="column">
         <h2>Star Trek Fan Fiction</h2>
