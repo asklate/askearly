@@ -20,3 +20,8 @@
   <a <?php if ($selected == "story") echo 'class="selected"';?> href="/story.php">Story</a>
   <a <?php if ($selected == "religion") echo 'class="selected"';?> href="/religion.php">Religion</a>
 </div>
+<?php if ($selected == "story") {?>
+<div class="subnav">
+    <a <?php if ($title == "Alliances") echo 'class="selected"';?> href="/alliances.php">Alliances</a>
+</div>
+<?php }?>
