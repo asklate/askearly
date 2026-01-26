@@ -116,6 +116,9 @@ $selected = "story";
 
         <p>212 <a href="docs/alliances/200/212-he-who-laughs-last.pdf" target="_blank">He Who Laughs Last</a>
             Dubor takes over a small planet in the Comeki Star System. Grilka and Jack talk.</p>
+
+        <p>213 <a href="docs/alliances/200/213-ashlea-prime.pdf" target="_blank">Ashlea Prime</a>
+            Strangers from the Sky visit Nokev and Shuka and share technology among other things.</p>
     </div>
 </div>
 
