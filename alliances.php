@@ -119,6 +119,10 @@ $selected = "story";
 
         <p>213 <a href="docs/alliances/200/213-ashlea-prime.pdf" target="_blank">Ashlea Prime</a>
             Strangers from the Sky visit Nokev and Shuka and share technology among other things.</p>
+
+        <p>214 <a href="docs/alliances/200/214-the-medicine.pdf" target="_blank">The Medicine</a>
+            Grilka's life comes in danger when she runs out of a drug she is dependant on. Help
+            comes from an unlikely source.</p>
     </div>
 </div>
 
