@@ -123,6 +123,10 @@ $selected = "story";
         <p>214 <a href="docs/alliances/200/214-the-medicine.pdf" target="_blank">The Medicine</a>
             Grilka's life comes in danger when she runs out of a drug she is dependant on. Help
             comes from an unlikely source.</p>
+
+        <p>215 <a href="docs/alliances/200/215-what-do-you-know.pdf" target="_blank">What Do You Know?</a>
+            Jack O'Brien discovers some disturbing news about himself. Toff and Coff are threatened
+            on the Shuka planet.</p>
     </div>
 </div>
 
