@@ -127,6 +127,10 @@ $selected = "story";
         <p>215 <a href="docs/alliances/200/215-what-do-you-know.pdf" target="_blank">What Do You Know?</a>
             Jack O'Brien discovers some disturbing news about himself. Toff and Coff are threatened
             on the Shuka planet.</p>
+
+        <p>216 <a href="docs/alliances/200/216-wherever-you-go.pdf" target="_blank">Wherever You Go ...</a>
+            Jack learns what the chip is for in his head and he doesn't like it. Toff and Coff's
+            appearance on Shuka soil come to an end.</p>
     </div>
 </div>
 
