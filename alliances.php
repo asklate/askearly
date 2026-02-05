@@ -7,7 +7,7 @@ $selected = "story";
 <div class="row">
     <div class="column">
         <h2>Alliances</h2>
-        <h3>Season One</h3>
+        <h3>Season One (2246)</h3>
         <p>101 <a href="docs/alliances/100/101-the-beginning.pdf" target="_blank">The Beginning</a>
             Major Jack O'Brien, after having survived an Earth Civil War, takes command of
             a space station on the edge of the frontier.</p>
@@ -77,7 +77,7 @@ $selected = "story";
             One of Nokev's experiences on The Rim of known space. Ketish visits the Fresno.</p>
     </div>
     <div class="column">
-        <h3>Season Two</h3>
+        <h3>Season Two (2247)</h3>
 
         <p>201 <a href="docs/alliances/200/201-connections.pdf" target="_blank">Connections</a>
             Captain O'Brien must undergo emergency surgery to save his life.</p>
