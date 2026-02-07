@@ -131,6 +131,10 @@ $selected = "story";
         <p>216 <a href="docs/alliances/200/216-wherever-you-go.pdf" target="_blank">Wherever You Go ...</a>
             Jack learns what the chip is for in his head and he doesn't like it. Toff and Coff's
             appearance on Shuka soil come to an end.</p>
+
+        <p>217 <a href="docs/alliances/200/217-wormholes-and-such.pdf" target="_blank">Wormholes And Such</a>
+            Bert McDuff attempts to get back to Earth via a wormhole and meets someone he doesn't
+            expect.</p>
     </div>
 </div>
 
