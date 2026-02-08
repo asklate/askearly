@@ -32,6 +32,9 @@ $selected = "story";
         <p><a href="docs/2026/time-travel.pdf" target="_blank">Time Travel</a>
             Frank and Sam are time travelers. These are some of their experiences.</p>
 
+        <p><a href="docs/2026/the-meeting.pdf" target="_blank">The Meeting</a>
+            Several people living in the same house under the same roof interact with each other.</p>
+
         <h2>2025</h2>
         <p><a href="docs/2025/shadows.pdf" target="_blank">Shadows</a>
             Nothing is ever as it seems.</p>
