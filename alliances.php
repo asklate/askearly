@@ -135,6 +135,10 @@ $selected = "story";
         <p>217 <a href="docs/alliances/200/217-wormholes-and-such.pdf" target="_blank">Wormholes And Such</a>
             Bert McDuff attempts to get back to Earth via a wormhole and meets someone he doesn't
             expect.</p>
+
+        <p>218 <a href="docs/alliances/200/218-world-eater.pdf" target="_blank">World Eater</a>
+            A dangerous hostile alien mass destruction warship threatens Shuka and the surrounding
+            planets in the Comeki Star System.</p>
     </div>
 </div>
 
