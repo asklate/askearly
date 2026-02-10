@@ -139,6 +139,9 @@ $selected = "story";
         <p>218 <a href="docs/alliances/200/218-world-eater.pdf" target="_blank">World Eater</a>
             A dangerous hostile alien mass destruction warship threatens Shuka and the surrounding
             planets in the Comeki Star System.</p>
+
+        <p>219 <a href="docs/alliances/200/219-in-the-dead-of-night.pdf" target="_blank">In The Dead Of Night</a>
+            Jack confronts Ketish about a matter. Norev learns something she doesn't quite understand.</p>
     </div>
 </div>
 
