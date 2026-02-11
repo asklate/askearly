@@ -142,6 +142,9 @@ $selected = "story";
 
         <p>219 <a href="docs/alliances/200/219-in-the-dead-of-night.pdf" target="_blank">In The Dead Of Night</a>
             Jack confronts Ketish about a matter. Norev learns something she doesn't quite understand.</p>
+
+        <p>220 <a href="docs/alliances/200/220-the-trance.pdf" target="_blank">The Trance</a>
+            Grilka and Norev seek out an old friend who has answers they want.</p>
     </div>
 </div>
 
