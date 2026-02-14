@@ -7,6 +7,12 @@ $selected = "story";
 <div class="row">
     <div class="column">
         <h2>Alliances</h2>
+        <p><a href="docs/alliances/premise.pdf" target="_blank">Premise</a> A simple writeup of what this
+            small series is all about. May contain spoilers.</p>
+    </div>
+</div>
+<div class="row">
+    <div class="column">
         <h3>Season One (2246)</h3>
         <p>101 <a href="docs/alliances/100/101-the-beginning.pdf" target="_blank">The Beginning</a>
             Major Jack O'Brien, after having survived an Earth Civil War, takes command of
