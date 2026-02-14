@@ -23,5 +23,6 @@
 <?php if ($selected == "story") {?>
 <div class="subnav">
     <a <?php if ($title == "Alliances") echo 'class="selected"';?> href="/alliances.php">Alliances</a>
+    <a <?php if ($title == "Abduction") echo 'class="selected"';?> href="/abduction.php">Abduction</a>
 </div>
 <?php }?>

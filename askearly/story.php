@@ -23,6 +23,9 @@ $selected = "story";
 
         <p><a href="/alliances.php">Alliances</a> A series set on an outpost at the edge of
             explored space by the United Earth Force Alliance.</p>
+
+        <p><a href="/abduction.php">Abduction</a> A series about an alien living on Earth
+            trying to find a way back to her home planet after crashing on Earth.</p>
     </div>
     <div class="column">
         <h2>2026</h2>
