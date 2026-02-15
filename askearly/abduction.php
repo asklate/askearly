@@ -16,6 +16,9 @@ $selected = "story";
         <h3>Season One</h3>
         <p>101 <a href="docs/abduction/100/101-pilot.pdf" target="_blank">Pilot</a>
             Joe meets an alien who needs his help to get back home.</p>
+
+        <p>102 <a href="docs/abduction/100/102-earth-life.pdf" target="_blank">Earth Life</a>
+            Miranda and Joe decide to go out for a night with unexpected consequences.</p>
     </div>
 </div>
 

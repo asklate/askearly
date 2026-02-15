@@ -11,6 +11,14 @@ $selected = "story";
         <p>Ah welcome! Yes welcome indeed. If you know where you are, then you know what this place is.</p>
         <p>If you do not know where you are? Well then there's a problem now isn't there.</p>
 
+        <h2>Series</h2>
+
+        <p><a href="/alliances.php">Alliances</a> A series set on an outpost at the edge of
+            explored space by the United Earth Force Alliance.</p>
+
+        <p><a href="/abduction.php">Abduction</a> A series about an alien living on Earth
+            trying to find a way back to her home planet after crashing on Earth.</p>
+
         <h2>Thinking</h2>
 
         <p><a href="docs/thoughts/security.pdf" target="_blank">Some thoughts on Security</a>
@@ -19,13 +27,6 @@ $selected = "story";
         <p><a href="docs/thoughts/religion.pdf" target="_blank">Religion</a> can mean a lot of things to a
             lot of different people. This is a look at the LDS church and its teachings.</p>
 
-        <h2>Series</h2>
-
-        <p><a href="/alliances.php">Alliances</a> A series set on an outpost at the edge of
-            explored space by the United Earth Force Alliance.</p>
-
-        <p><a href="/abduction.php">Abduction</a> A series about an alien living on Earth
-            trying to find a way back to her home planet after crashing on Earth.</p>
     </div>
     <div class="column">
         <h2>2026</h2>
