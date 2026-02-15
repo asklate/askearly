@@ -154,6 +154,9 @@ $selected = "story";
 
         <p>221 <a href="docs/alliances/200/221-to-the-stars.pdf" target="_blank">To The Stars</a>
             A woman sends a plea for help. Bert McDuff exits a wormhole in an unexpected place, again.</p>
+
+        <p>222 <a href="docs/alliances/200/222-prophecy.pdf" target="_blank">Prophecy</a>
+            The prophecy surrounding Jack O'Brien comes to pass.</p>
     </div>
 </div>
 
