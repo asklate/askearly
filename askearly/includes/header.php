@@ -18,6 +18,7 @@
   <a <?php if ($selected == "home") echo 'class="selected"';?> href="/">Home</a>
   <a <?php if ($selected == "about") echo 'class="selected"';?> href="/about.php">About</a>
   <a <?php if ($selected == "story") echo 'class="selected"';?> href="/story.php">Story</a>
+  <a <?php if ($selected == "dad") echo 'class="selected"';?> href="/dad.php">Dear Dad</a>
   <a <?php if ($selected == "religion") echo 'class="selected"';?> href="/religion.php">Religion</a>
 </div>
 <?php if ($selected == "story") {?>
