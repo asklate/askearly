@@ -17,6 +17,8 @@ $selected = "dad";
         <h3>2026</h3>
         <p><a href="docs/dad/2026/2026-02-15.pdf" target="_blank">February 15, 2026</a>
             Remembering some good times, wishing to have them again.</p>
+        <p><a href="docs/dad/2026/2026-02-16.pdf" target="_blank">February 16, 2026</a>
+            Remembering some regrets on my mind.</p>
     </div>
 
 </div>
