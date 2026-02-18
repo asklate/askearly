@@ -158,6 +158,12 @@ $selected = "story";
         <p>222 <a href="docs/alliances/200/222-prophecy.pdf" target="_blank">Prophecy</a>
             The prophecy surrounding Jack O'Brien comes to pass.</p>
     </div>
+    <div class="column">
+        <h3>Season Three (2248)</h3>
+
+        <p>301 <a href="docs/alliances/300/301-one-day-at-a-time.pdf" target="_blank">One Day At A Time</a>
+            The crew of the Fresno attempt to rescue Jack from prison.</p>
+    </div>
 </div>
 
 <?php include_once("includes/footer.php");?>
