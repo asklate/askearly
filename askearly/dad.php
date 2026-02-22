@@ -21,6 +21,8 @@ $selected = "dad";
             Remembering some regrets on my mind.</p>
         <p><a href="docs/dad/2026/2026-02-18.pdf" target="_blank">February 18, 2026</a>
             Trying to get by.</p>
+        <p><a href="docs/dad/2026/2026-02-21.pdf" target="_blank">February 21, 2026</a>
+            Trying to figure death out.</p>
     </div>
 
 </div>
