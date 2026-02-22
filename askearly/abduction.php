@@ -19,6 +19,9 @@ $selected = "story";
 
         <p>102 <a href="docs/abduction/100/102-earth-life.pdf" target="_blank">Earth Life</a>
             Miranda and Joe decide to go out for a night with unexpected consequences.</p>
+
+        <p>103 <a href="docs/abduction/100/103-men-in-black.pdf" target="_blank">Men In Black</a>
+            A task force sets out to find Miranda's ship. Joe takes Miranda shopping.</p>
     </div>
 </div>
 
