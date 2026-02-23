@@ -163,6 +163,9 @@ $selected = "story";
 
         <p>301 <a href="docs/alliances/300/301-one-day-at-a-time.pdf" target="_blank">One Day At A Time</a>
             The crew of the Fresno attempt to rescue Jack from prison.</p>
+
+        <p>302 <a href="docs/alliances/300/302-second-chances.pdf" target="_blank">Second Chances</a>
+            Ketish arrives on the station, Dubor is looking for a second chance at life.</p>
     </div>
 </div>
 
