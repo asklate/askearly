@@ -166,6 +166,10 @@ $selected = "story";
 
         <p>302 <a href="docs/alliances/300/302-second-chances.pdf" target="_blank">Second Chances</a>
             Ketish arrives on the station, Dubor is looking for a second chance at life.</p>
+
+        <p>303 <a href="docs/alliances/300/303-walking-the-world.pdf" target="_blank">Walking The World</a>
+            Nokev and Obshi share memories of the distant past. A personal enemy of Jeff Killpack
+            boards the station.</p>
     </div>
 </div>
 
