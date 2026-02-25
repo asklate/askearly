@@ -22,6 +22,9 @@ $selected = "story";
 
         <p>103 <a href="docs/abduction/100/103-men-in-black.pdf" target="_blank">Men In Black</a>
             A task force sets out to find Miranda's ship. Joe takes Miranda shopping.</p>
+
+        <p>104 <a href="docs/abduction/110/104-abducted.pdf" target="_blank">Abducted</a>
+            Joe is abducted by aliens, Miranda tries to cope with it.</p>
     </div>
 </div>
 
