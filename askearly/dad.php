@@ -23,6 +23,8 @@ $selected = "dad";
             Trying to get by.</p>
         <p><a href="docs/dad/2026/2026-02-21.pdf" target="_blank">February 21, 2026</a>
             Trying to figure death out.</p>
+        <p><a href="docs/dad/2026/2026-02-28.pdf" target="_blank">February 28, 2026</a>
+            Just thinking how hard this life is.</p>
     </div>
 
 </div>
