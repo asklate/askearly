@@ -170,6 +170,11 @@ $selected = "story";
         <p>303 <a href="docs/alliances/300/303-walking-the-world.pdf" target="_blank">Walking The World</a>
             Nokev and Obshi share memories of the distant past. A personal enemy of Jeff Killpack
             boards the station.</p>
+
+        <p>304 <a href="docs/alliances/300/304-daily-business.pdf" target="_blank">Daily Business</a>
+            Just some daily business on the station after the Dubor civilians are finding places to
+            live on the station. Some new policies are put in place. An alien ship comes and visits
+            the station.</p>
     </div>
 </div>
 
