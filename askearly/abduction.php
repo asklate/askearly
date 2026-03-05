@@ -25,6 +25,9 @@ $selected = "story";
 
         <p>104 <a href="docs/abduction/110/104-abducted.pdf" target="_blank">Abducted</a>
             Joe is abducted by aliens, Miranda tries to cope with it.</p>
+
+        <p>105 <a href="docs/abduction/100/105-downtown.pdf" target="_blank">Downtown</a>
+            Miranda goes on a small shopping trip and runs into unexpected company.</p>
     </div>
 </div>
 
