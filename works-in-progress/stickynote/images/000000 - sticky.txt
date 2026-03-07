@@ -1,6 +1,8 @@
 The Mighty Sticky Note
 ======================
 
+![Sticky Note](000000-sticky.jpg)
+
 You're sitting there perhaps at work, or at your home office. Just quietly minding your own business when your fingers have to do something.
 
 You look to your keyboard, but don't feel like typing anything. Then you look to your legal pad.
