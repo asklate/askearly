@@ -115,6 +115,11 @@ $selected = "story";
             A woman finds a mirror at a garage sale. The mirror is a doorway to
               different Earths where she encounters her double.</p>
 
+        <p><a href="docs/mirror/002-old-man-in-the-mirror.pdf" target="_blank">Old Man In The Mirror</a>
+            The previous owner of the mirror's story is told. George was a simple lad
+              who was always on the cusp of discovering something new. When he came across
+              the mirror, he got something he hadn't bargained for.</p>
+
         <h2>Adventures of Susan The Assassin</h2>
 
         <dl>
