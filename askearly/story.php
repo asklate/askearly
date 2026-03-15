@@ -109,6 +109,12 @@ $selected = "story";
         <p><a href="docs/fanfic/assimilation.pdf" target="_blank">Assimilation Season</a>
             What if a borg made it past the events of 2063 and connected with the borg in the future?</a></p>
 
+        <h2>The Mirror</h2>
+
+        <p><a href="docs/mirror/001-the-mirror.pdf" target="_blank">The Mirror</a>
+            A woman finds a mirror at a garage sale. The mirror is a doorway to
+              different Earths where she encounters her double.</p>
+
         <h2>Adventures of Susan The Assassin</h2>
 
         <dl>
