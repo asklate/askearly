@@ -28,6 +28,9 @@ $selected = "story";
             Just a simple question, one would think that's what it is. But maybe it's more
             complex than it seems on the surface.</p>
 
+        <p><a href="docs/thoughts/what-is-life.pdf" target="_blank">What Is Life?</a>
+            A thought process on life and the challenges that I face on a day--to-day basis.</p>
+
         <p><a href="docs/thoughts/religion.pdf" target="_blank">Religion</a> can mean a lot of things to a
             lot of different people. This is a look at the LDS church and its teachings.</p>
 
