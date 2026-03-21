@@ -175,6 +175,9 @@ $selected = "story";
             Just some daily business on the station after the Dubor civilians are finding places to
             live on the station. Some new policies are put in place. An alien ship comes and visits
             the station.</p>
+
+        <p>305 <a href="docs/alliances/300/305-death-wish.pdf" target="_blank">Death Wish</a>
+            Jack O'Brien goes on a mission while the rest of the crew wonder where he went.</p>
     </div>
 </div>
 
