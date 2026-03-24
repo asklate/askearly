@@ -67,7 +67,10 @@ $selected = "religion";
         <h3>2020</h3>
         <p><a href="docs/religion/2020/04/the-law.pdf" target=="_blank">The Law</a></p>
     </div>
-
+    <div class="column">
+        <h3>2026</h3>
+        <p><a href="docs/religion/2026/03/aof03.pdf" target="_blank">Article of Faith 3</a></p>
+    </div>
 </div>
 
 <?php include_once("includes/footer.php");?>
