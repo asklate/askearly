@@ -70,6 +70,7 @@ $selected = "religion";
     <div class="column">
         <h3>2026</h3>
         <p><a href="docs/religion/2026/03/aof03.pdf" target="_blank">Article of Faith 3</a></p>
+        <p><a href="docs/religion/2026/03/aof04.pdf" target="_blank">Article of Faith 4</a></p>
     </div>
 </div>
 
