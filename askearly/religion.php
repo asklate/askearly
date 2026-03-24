@@ -27,7 +27,7 @@ $selected = "religion";
     </div>
     <div class="column">
         <h3>2018</h3>
-        <p><a href="docs/religion/2018/09/a-thought-process-of-nothing.pdf" target="_blank">A thought Process Of Nothing</a></p>
+        <p><a href="docs/religion/2018/09/a-thought-process-of-nothing.pdf" target="_blank">A Thought Process Of Nothing</a></p>
         <p><a href="docs/religion/2018/09/articles-of-faith-comparison.pdf" target="_blank">Articles of Faith</a></p>
         <p><a href="docs/religion/2018/09/articles-of-faith-revised.pdf" target="_blank">Articles of Faith Revised</a></p>
         <p><a href="docs/religion/2018/09/be-you.pdf" target="_blank">Be You</a></p>
