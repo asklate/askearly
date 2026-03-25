@@ -29,7 +29,10 @@ $selected = "story";
             complex than it seems on the surface.</p>
 
         <p><a href="docs/thoughts/what-is-life.pdf" target="_blank">What Is Life?</a>
-            A thought process on life and the challenges that I face on a day--to-day basis.</p>
+            A thought process on life and the challenges that I face on a day-to-day basis.</p>
+
+        <p><a href="docs/thoughts/thoughts-on-life-and-death.pdf" target="_blank">Thoughts on Life and Death</a>
+            Some thinking I've been doing regarding life vs death.</p>
 
         <p><a href="docs/thoughts/religion.pdf" target="_blank">Religion</a> can mean a lot of things to a
             lot of different people. This is a look at the LDS church and its teachings.</p>
