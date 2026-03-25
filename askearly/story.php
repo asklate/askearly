@@ -34,9 +34,8 @@ $selected = "story";
         <p><a href="docs/thoughts/thoughts-on-life-and-death.pdf" target="_blank">Thoughts on Life and Death</a>
             Some thinking I've been doing regarding life vs death.</p>
 
-        <p><a href="docs/thoughts/religion.pdf" target="_blank">Religion</a> can mean a lot of things to a
-            lot of different people. This is a look at the LDS church and its teachings.</p>
-
+        <p><a href="docs/thoughts/fatal-decisions.pdf" target="_blank">Fatal Decisions</a>
+            There are so many decisions in this life, some good some bad.</p>
     </div>
     <div class="column">
         <h2>2026</h2>
