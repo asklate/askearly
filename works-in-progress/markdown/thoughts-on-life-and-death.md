@@ -1,7 +1,7 @@
 ---
 title: Thoughts On Life and Death
 author: Kyle Eggleston
-date: March 16, 2026
+date: Monday, March 16, 2026
 ...
 
 # Introduction
