@@ -75,6 +75,7 @@ $selected = "religion";
         <p><a href="docs/religion/22026/03/adam-god-theory.pdf" target="_blank">Adam-God Theory</a></p>
         <p><a href="docs/religion/20026/03/hell-on-earth.pdf" target="_blank">Hell On Earth</a></p>
         <p><a href="docs/religion/2026/03/race-controversy.pdf" target="_blank">Race Controversy</a></p>
+        <p><a href="docs/religion/2026/03/the-cross.pdf" target="_blank">The Cross</a></p>
     </div>
 </div>
 
