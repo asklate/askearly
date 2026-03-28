@@ -70,12 +70,13 @@ $selected = "religion";
     <div class="column">
         <h3>2026</h3>
         <p><a href="docs/religion/2026/03/aof03.pdf" target="_blank">Article of Faith 3</a></p>
-        <p><a href="docs/religion/2026/03/aof04.pdf" target="_blank">Article of Faith 4</a></p>
+        <p><a href="docs/religion/2026/03/aof04.apdf" target="_blank">Article of Faith 4</a></p>
         <p><a href="docs/religion/2026/03/glory-of-god.pdf" target="_blank">The Glory of God is Intelligence</a></p>
         <p><a href="docs/religion/22026/03/adam-god-theory.pdf" target="_blank">Adam-God Theory</a></p>
         <p><a href="docs/religion/20026/03/hell-on-earth.pdf" target="_blank">Hell On Earth</a></p>
         <p><a href="docs/religion/2026/03/race-controversy.pdf" target="_blank">Race Controversy</a></p>
         <p><a href="docs/religion/2026/03/the-cross.pdf" target="_blank">The Cross</a></p>
+        <p><a href="docs/religion/2026/03/polygamy.pdf" target="_blank">Polygamy</a></p>
     </div>
 </div>
 
