@@ -24,6 +24,8 @@ $selected = "religion";
         <p><a href="docs/religion/talks/repentance-2.pdf" target="_blank">Repentance and Testimony</a></p>
         <p><a href="docs/religion/talks/sabbath-day.pdf" target="_blank">The Sabbath Day</a></p>
         <p><a href="docs/religion/talks/some-thoughts-on-topics.pdf" target="_blank">Some Thoughts On Topics</a></p>
+        <h3>Sources and Research</h3>
+        <p><a href="docs/religion/sources/king-follett-discourse.pdf" target="_blank">The King Follett Discourse</a></p>
     </div>
     <div class="column">
         <h3>2018</h3>
