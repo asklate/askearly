@@ -80,6 +80,7 @@ $selected = "religion";
         <p><a href="docs/religion/2026/03/the-cross.pdf" target="_blank">The Cross</a></p>
         <p><a href="docs/religion/2026/03/polygamy.pdf" target="_blank">Polygamy</a></p>
         <p><a href="docs/religion/2026/03/nature-of-god.pdf" target="_blank">The Nature of God</a></p>
+        <p><a href="docs/religion/2026/03/translation.pdf" target="_blank">Tight vs Loose Translation of the Book of Mormon</a></p>
     </div>
 </div>
 
