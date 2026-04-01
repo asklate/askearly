@@ -267,6 +267,7 @@ ELDER JENSEN:
 -------------
 
 Second Corinthians—excuse me— First Corinthians 2 starting with verse 9. 1 Corinthians 2, starting with verses 9, 10,
+
 11. And now I’m on verse 12. Paul says,
 
 Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that
@@ -450,8 +451,9 @@ Like apostles, missionaries, and so forth.
 Q2:
 ---
 
-I heard for example one woman has said the child that she bore that she didn’t know if it was the child of Joseph or the child of, in this case, Orson Hyde, I think, an apostle. So that indicates that it was definitely not a spiritual marriage for it was all the way marriage. So, I have a question, what do you feel about that?
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I heard for example one woman has said the child that she bore that she didn’t know if it was the child of Joseph or the
+child of, in this case, Orson Hyde, I think, an apostle. So that indicates that it was definitely not a spiritual
+marriage for it was all the way marriage. So, I have a question, what do you feel about that?
 
 ELDER JENSEN:
 -------------
