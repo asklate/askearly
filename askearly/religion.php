@@ -27,6 +27,7 @@ $selected = "religion";
         <h3>Sources and Research</h3>
         <p><a href="docs/religion/sources/king-follett-discourse.pdf" target="_blank">The King Follett Discourse</a></p>
         <p><a href="docs/religion/sources/emma-smith.pdf" target="_blank">Last Testimony of Sister Emma</a></p>
+        <p><a href="docs/religion/sources/swedish-rescue-2010.pdf" target="_blank">2010 Sweden Fireside (Swedish Rescue)</a></p>
     </div>
     <div class="column">
         <h3>2018</h3>
