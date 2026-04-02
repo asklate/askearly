@@ -86,6 +86,7 @@ $selected = "religion";
         <p><a href="docs/religion/2026/03/nature-of-god.pdf" target="_blank">The Nature of God</a></p>
         <p><a href="docs/religion/2026/03/translation.pdf" target="_blank">Tight vs Loose Translation of the Book of Mormon</a></p>
         <p><a href="docs/religion/2026/04/stay-in-the-boat.pdf" target="_blank">Stay in the Boat</a></p>
+        <p><a href="docs/religion/2026/04/hiram-page.pdf" target="_blank">Hiram Page and Revelation</a></p>
     </div>
 </div>
 
