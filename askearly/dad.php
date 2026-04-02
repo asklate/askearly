@@ -29,6 +29,8 @@ $selected = "dad";
             Worrying about the future and a current situation.</p>
         <p><a href="docs/dad/2026/2026-03-26.pdf" target="_blank">March 26, 2026</a>
             Worrying about my mom, she needs you.</p>
+        <p><a href="docs/dad/2026/2026-04-02.pdf" target="_blank">April 2, 2026</a>
+            A nightmare.</p>
     </div>
 
 </div>
