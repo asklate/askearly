@@ -36,6 +36,12 @@ $selected = "story";
 
         <p><a href="docs/thoughts/fatal-decisions.pdf" target="_blank">Fatal Decisions</a>
             There are so many decisions in this life, some good some bad.</p>
+
+        <p><a href="docs/thoughts/depression.pdf" target="_blank">Depressive Psychosis</a>
+            Some thoughts on depression and psychosis.</p>
+
+        <p><a href="docs/thoughts/mental-illness.pdf" target="_blank">Mental Illness</a>
+            Thoughts on Mental Illness</p>
     </div>
     <div class="column">
         <h2>2026</h2>
