@@ -7,7 +7,7 @@ date: Thursday, April 2, 2026
 Having been diagnosed with Major Depressive Disorder (MDD) with psychotic features[^1] is a pain in the ass. I don't know
 how else to live with it, but the fact that I have to simply deal with it. When the voices tell you to do something
 you have to listen to them. Feeling emotionally frustrated at times isn't a good thing. I don't know how to deal
-or handle any of it. So I try my best to ignore it. Yeah *try* that for a while and see how it goes. I'll wait
+or handle any of it. So I try my best to ignore it. Yeah, *try* that for a while and see how it goes. I'll wait
 no worries.
 
 I wish I knew how best to live with these constant thoughts and feelings. But I'm not sure if I know exactly what to do
@@ -29,6 +29,10 @@ Death would be a welcome change of scenery I think at times. It would be nice no
 this life anymore. Perhaps I could do something that would be better than what it currently is. I'm not sure
 how that would work out for me, but it's something I want to happen. I can't *make* it happen mind you, but
 I can wish.
+
+It would be nice to be able to figure everything out all at once. I doubt there's a way to figure anything
+out though. I think that's just the way things go from time to time though. I hate it. I wish there was a way
+to make everything slow down and not be so chaotic.
 
 [^1]: Major Depressive Disorder (MDD) with psychotic features is a severe subtype of depression where a person
 experiences intense depressive symptoms alongside psychosis (hallucinations or delusions). It is a dangerous, often
