@@ -178,6 +178,9 @@ $selected = "story";
 
         <p>305 <a href="docs/alliances/300/305-death-wish.pdf" target="_blank">Death Wish</a>
             Jack O'Brien goes on a mission while the rest of the crew wonder where he went.</p>
+
+        <p>306 <a href="docs/alliances/300/306-under-the-sky.pdf" target="_blank">Under The Sky</a>
+            Suspicions arise when faillures occur all over the station.</p>
     </div>
 </div>
 
