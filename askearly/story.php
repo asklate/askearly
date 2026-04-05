@@ -41,7 +41,10 @@ $selected = "story";
             Some thoughts on depression and psychosis.</p>
 
         <p><a href="docs/thoughts/mental-illness.pdf" target="_blank">Mental Illness</a>
-            Thoughts on my Mental Illness</p>
+            Thoughts on my Mental Illness.</p>
+
+        <p><a href="docs/thoughts/current-state.pdf" target="_blank">Current State</a>
+            Depression at its worst.</p>
     </div>
     <div class="column">
         <h2>2026</h2>

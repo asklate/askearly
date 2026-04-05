@@ -57,4 +57,15 @@ You have your mad way sf doing things as do I. I have my own crazy way of living
 that what we're all trying to do here though? Survive?
 
 I don't suppose there's a simple way to overcome all of these negative thoughts. It would be nice if I had the
-ability to simply wish them all away and they would go. But I don't think I can do that effectively.
+ability to simply wish them all away and they would go. But I don't think I can do that effectively. Maybe
+there isn't a way to overcome these thoughts and feelings. Perhaps it's just not possible.
+
+If life had a way to make sense, I think it would want to make sense about right now. I think if there was
+a way to figure it all out I would have found that secret by now. Well, the secret's still out there sealed
+up in a box without a key to open it.
+
+Feels like I'm watching life from the sidelines outside my own body ya know? Like none of it is real. I wish
+I had the ability to understand where all of this is coming from. I don't think I'll ever figure it out. There's
+too many variables in my life to just cut it dry and let it go.
+
+In the end, I'll just have to deal with it.
