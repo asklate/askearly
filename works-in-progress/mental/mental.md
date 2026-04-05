@@ -633,3 +633,94 @@ So I guess, we'll just have to wait and see what happens.
 
 # 014 Prison
 
+Life in prison wasn't easy. Larry didn't want any part of it. But he had to do the time for which he had committed a
+certain questionable crime. Naturally what crime isn't questionable.
+
+He had been surprised at how quickly the police caught up with him. They were on the scene in seconds. Literally
+seconds.
+
+Larry figured the shop owner must have had the police on hot standby or something. They never showed up that quickly to
+anything, unless it was a doughnut shop. He chuckled at the thought. Police and donuts were like peanut butter and
+jelly.
+
+The crime in question was theft, theft of something Larry didn’t know what. He didn’t ask questions when it came down to
+it. Larry had a job to do and he attempted to do that job, only he was caught, he failed the assignment.
+
+“Hey bub, you gonna finish that?” A man sitting across from Larry asked. They were sitting in the cafeteria.
+
+Larry looked at his pie and frowned. It looked so happy and pleasing to the taste, but he couldn’t eat it. He wasn’t in
+the mood for a happy dessert. Nudging the small plate across from him, Larry let the man have his dessert.
+
+“You take it, I’m not hungry.”
+
+The man gladly accepted the dessert and began eating it. Halfway through eating the chocolate pie, the man stopped. He
+wondered why Larry had given him the food so freely. What was his game plan. He put his fork down.
+
+“What gives?” He asked.
+
+Larry sighed. “Matt, what do you mean what gives?” He responded. “Every day since we met, you’ve asked if I was going to
+eat my dessert. I usually do. Today, I feel different, I don’t want it. So it’s yours. There’s nothing to get.”
+
+Matt looked at Larry and then back at the pie. Shrugging his shoulders he picked up his fork and began eating again.
+Matt wasn’t about to let a good piece of pie go to waste. As he finished it, he belched.
+
+“That good huh?” Larry smirked.
+
+“Yep bub, me and pie we have a relationship that goes back decades.” Matt laughed. “I haven’t met a pie I didn’t like.”
+
+An alarm sounded. It was blaring and loud. Larry dropped to the floor placing his hands above him. It could only mean
+one thing, an escape attempt was happening.
+
+Matt sighed as he too went to the floor. “Man, just when I was enjoying my lunch.”
+
+“Shut up!” Larry said. “You know the rules, no talking.”
+
+A security guard approached Larry. “402, are you talking while a security breech is going on?”
+
+Larry didn’t respond.
+
+“That’s what I thought.” The guard said. Taking a taser out of his pocket, he pressed it against Larry’s neck. “Next
+time, be more careful.” He walked away.
+
+Larry exhaled slowly. That was a close one. He had been on the business end of a taser before, it wasn’t something he
+wanted to experience a second time. Larry glared at Matt, they would have words later.
+
+The prisoners in the cafeteria could hear other prisoners cheering one of the escapee’s on. They wanted him to get free
+from the guards. It was a futile maneuver, but they wanted it anyways. It seemed to liven up the place even if it was
+for a brief moment.
+
+After twenty minutes passed, the intercom crackled to life. “All clear.” A guard’s voice came over an intercom. “Return
+to your normally scheduled activities.”
+
+Standing up, Larry sat down at the table he and Matt had been eating lunch at. Stirring his food around his plate, Larry
+frowned. It was now cold. Oh well, Larry thought, it wasn’t that good of food anyways. Who cares. Such was the prison
+life.
+
+Standing up from the table, Larry picked up his tray. He was done eating. Walking it over to the incinerator, he placed
+it inside and closed the lid. Larry pressed a green button and watched as his trash lit up in flame. If he kept his nose
+clean, he would avoid the human incinerator. It was something he planned on avoiding at all costs.
+
+Matt followed Larry out the cafeteria and into the courtyard where they had twenty minutes of free time. Larry called it
+recess like he was back in grammar school or something. Matt called it an opportunity.
+
+Larry watched as Matt worked his magic. A pack of cigarettes exchanged for some Ramen. Ramen exchanged for some Doritos.
+It was the typical swapping and trading in an attempt to get what one wanted. Food and cigarettes were the currency for
+such things. By the end of the day, Matt would have the necessary ingredients to make some toilet wine, which he would
+trade for something else as well. It was how the game was played.
+
+Walking back to his cellblock, Larry laid down on his bed. It wasn’t that much of a bed, it was prison after all. But it
+served its purpose.
+
+Falling asleep, Larry would dream of better times. Old times when life was quite different. Life was simpler back then.
+It was something he wanted to look forward to.
+
+There was a clanking sound on his cell bars. Larry woke up. Looking at the cell door, a security officer was standing
+there. She had quite an evil smirk on her face.
+
+“Heard back from your parole board Larry. Sorry, you didn’t make the cut.” She laughed as she walked away.
+
+Larry frowned. Sara was a jerk. Out of all the guards, he hated her the most. She had something against him. He didn’t
+know what that was, but it was something real. Larry could feel it in his bones.
+
+Laying back down on his mattress, Larry exhaled sharply. He wouldn’t sleep that night, or any night afterwards not until
+he was free of that damned prison.
