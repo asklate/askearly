@@ -724,3 +724,51 @@ know what that was, but it was something real. Larry could feel it in his bones.
 
 Laying back down on his mattress, Larry exhaled sharply. He wouldn’t sleep that night, or any night afterwards not until
 he was free of that damned prison.
+
+# 015 Fire
+
+Shawn watched as the house burned. It wasn’t his first arson attempt and it sure as hell wouldn’t be his last. Shawn
+liked watching things burn, it was in his blood. Looking at his watch, he figured the fire department would be there
+shortly, and if the fire department would be coming you can be the police would be there too. It was time to book.
+
+Standing up, Shawn dusted his pants off and made a run for it into the cloak of night. In a way he wanted to see the
+firefighters battle his latest handy work, but then again he didn’t want to get caught. If you got caught, you couldn’t
+start another fire.
+
+Moments later, the fire department arrived on the scene. They quickly got to work at battling the house fire.
+Fortunately no one was home at the time the fire started. Shawn wasn’t in it to harm anyone, he just wanted to watch the
+world burn one house at a time.
+
+Laying in bed, Shawn flipped on the TV and channel surfed until he came upon the evening news. Sure enough, the house he
+had set on fire was there as the lead story. Shawn grinned at the story, it was nice to see his handy work on the small
+screen.
+
+Turning the TV off, Shawn turned over and decided to get some sleep. Tomorrow would bring about another opportunity for
+his little plan.
+
+The next day, Shawn woke up early to the sound of knocking on his door. Yawning, he grabbed a shirt and got dressed. Who
+was bothering him this early in the morning? He wondered.
+
+Opening the door, Shawn saw a man flash his badge and put it away back in his pocket. “Shawn Matthews? I have a few
+questions for you.” He walked inside Shawn’s apartment without asking if he would come in.
+
+Sitting down on the couch, Shawn watched the man look around for a moment before settling down on a chair across from
+Shawn.
+
+Pulling out a briefcase, the man opened it and took some photos out. He placed them on the coffee table for Shawn to
+see. They were pictures of burning houses.
+
+“Recognize your handy work?” The man asked.
+
+Shawn froze. He didn’t know what to say. As far as he knew no one knew it was him that had started the fires. Shawn
+tried to lie his way out of it. “I don’t know what you’re talking about … mister …”
+
+“Fredrickson.” The man said. “George Fredrickson. We take arson very seriously Mister Anders. Very seriously.” He tapped
+his foot on the floor.
+
+Shawn felt a lump form in his throat. He tried again to deny it. “I don’t know what you’re talking about man. I haven’t
+been near any of those places that went up in flames.”
+
+George smiled. “I didn’t say there was more than one. Stand up, turn around. I’m placing you under arrest.”
+
+Shawn sighed. Today was not his day.
