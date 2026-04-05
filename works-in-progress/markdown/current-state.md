@@ -44,4 +44,17 @@ Yeah, that's a touchy topic for sure. Let's not go there though, not today. I do
 that are still fresh. I don't know if they'll ever go away. I mean, is that even a possibility? I am trying to hide
 the fact that these thoughts are even there to begin with. Does that do me any good though?
 
-Sounds a little on the crazy side doesn't it. Yeah, that's what I've been thinking for a while now myself.
+Sounds a little on the crazy side doesn't it. Yeah, that's what I've been thinking for a while now myself. But if
+I'm meant to be this way, what's the use of it all? Who has the right to say what's normal and what isn't. Who is
+acting out and who's being appropriate. Some doctor maybe, someone with a PHD in psychology or some other nonsense
+would be my guess.
+
+Sometimes we don't have all the answers we want. That's just how it is.
+
+If I had an answer to any of this, do you think I would be fuming over all of these issues and having problems
+with my own psyche? Everything comes down to the fact that we are all mad here, just on different planes of existence.
+You have your mad way sf doing things as do I. I have my own crazy way of living and trying to simply survive. Isn't
+that what we're all trying to do here though? Survive?
+
+I don't suppose there's a simple way to overcome all of these negative thoughts. It would be nice if I had the
+ability to simply wish them all away and they would go. But I don't think I can do that effectively.
