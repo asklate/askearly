@@ -90,6 +90,7 @@ $selected = "religion";
         <p><a href="docs/religion/2026/04/fourteen-points.pdf" target="_blank">Fourteen Fundamentals in Following the Prophet</a></p>
         <p><a href="docs/religion/2026/04/aof5.pdf" target="_blank">Article of Faith 5</a></p>
         <p><a href="docs/religion/2026/04/luke-10.pdf" target="_blank">Luke 10:21-24</a></p>
+        <p><a href="docs/religion/2026/04/living-life.pdf" target="_blank">Living Life</a></p>
     </div>
 </div>
 
