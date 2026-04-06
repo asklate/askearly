@@ -772,3 +772,103 @@ been near any of those places that went up in flames.”
 George smiled. “I didn’t say there was more than one. Stand up, turn around. I’m placing you under arrest.”
 
 Shawn sighed. Today was not his day.
+
+# 014 Ralph
+
+Ralph stepped from the curb and began crossing the street just as a bus swerved out of the way to avoid hitting him. He
+stopped walking and took a quick step back. “That was close.” Ralph said. “Too close.”
+
+“Watch where you’re walking!” The bus driver yelled out his window.
+
+“Watch yourself!” Ralph yelled back at the driver as the bus drove away. “You could have killed me!” He flipped the
+driver off.
+
+Crossing the rest of the way, Ralph walked into the mental institute. As he approached the main desk, he smiled at the
+nurse who was manning it.
+
+“Morning Glinda.” Ralph said.
+
+Glinda smiled in return. “Good morning Doctor Ralph, ready for another exciting day with your favorite patients?”
+
+Ralph laughed. “Of course.”
+
+Glinda handed several files over to Ralph. “Good, here are your morning cases. There’s more after lunch, so make sure
+you get something to eat before you see them.”
+
+Ralph shuffled through the cases for a moment, it was the typical intake forms. He typically saw such cases on a daily
+basis. They weren’t surprising in any way. Just people who needed to see the doctor and hopefully get better after being
+put on medications.
+
+Ralph paused on one file in particular. “Ben.” He whispered. “What are you doing in this pile of rugrats?” He whistled
+as he read. “Didn’t know that about you my friend…” His voice trailed off.
+
+An hour later, Ralph sat across from Ben. Ben was wearing a straight jacket. Ralph frowned at the sight. To his
+knowledge Ben didn’t need to be in such a contraption. Walking towards Ben, Ralph began loosening the straps on the
+jacket.
+
+“You don’t want to do that.” Ben warned. “When people help me, they get hurt.”
+
+Ralph ignored the advice. “Don’t worry Ben, you’re safe here. I promise.” He held out a hand. “Trust me.”
+
+Ben shook his head. “I can’t trust anyone. Especially doctors like you.” He laughed. “No thanks.”
+
+Ralph dropped his hand. “Right.” He said. “Look, I’m here to help. We can get you through this, whatever this is we can
+do it. Together.”
+
+Ben rolled his eyes. “Lies I’ve heard from other doctors. Lies I’ve heard from you before too. It’s all just lies.” He
+waved his hands in the air. “Lies and more lies, it won’t change ... ever.”
+
+Ralph tried to smile but couldn’t do so. He was worried about Ben on more than one level. It was more than a
+professional concern, it was personal. Ralph had promised Bens’ parents he would look out for him and felt like he was
+failing all around.
+
+Ever since Ralph was introduced to Ben, he had worried about him. There was something off about the kid. All the
+medication in the world wouldn’t be able to “fix” him. Ralph knew this, which is why he felt therapy might do some good.
+
+“How are the voices these days?” Ralph asked. “You still hearing them?”
+
+Ben tapped the side of his head. “All day, every day. Life wouldn’t be the same without them.” He smiled. “Sometimes I
+think I’d be lost without them hanging around. Hey at least I’m never alone.” Ben chuckled at his own joke.
+
+Ralph wished he could chuckle along with Ben, but it was a very serious thing he was admitting to. Voices had a tendency
+to mess with a person’s mind. Telling them to do things they don’t want to do. It can be a very dangerous place to be
+in.
+
+Ben dropped the smile. “You’ll never know what it’s like inside my head man. You’ll never know.” He tapped his head
+again. “And that’s something I have to accept, that I hear things that no one else hears. It’s torture man, it’s
+something I have to deal with daily and I hate it.” He paused. “If you can do anything about that, I’d like to see you
+try.”
+
+Ralph frowned. He could throw medication at it, but that wasn’t about to fix anything. Talking about it might help in
+the long run, but then again it wouldn’t fix anything. Not the way Ben wanted to be fixed.
+
+Ben wanted to feel normal again. Before the voices started manifesting themselves, he was just an ordinary kid doing
+what ordinary kids do. Playing games, watching TV, trying out for football practice. He even had a girlfriend. But then
+the voices came and changed everything that he knew to be his life.
+
+“I think we can try some new techniques.” Ralph said. “Something that hasn’t been tried before.”
+
+Ben leaned back in his chair and frowned. “No more medication. No electroshock therapy man. I can’t go through that
+again.”
+
+Ralph nodded his head. He had read over the … for lack of better words experiments previous doctors had done to Ben.
+They weren’t fair and were inhumane by today’s standards.
+
+Ben felt his thoughts were irrational at times, but he also knew they were very real to him. No one could take that away
+from him, they were a part of him. They were him. But the problem with that line of thinking was, Ben’s illness didn’t
+define him. He didn’t want it to define him. To do so wouldn’t be fair to Ben.
+
+Ralph knew this. He had trained for such problems when dealing with troubled kids. It was his mission to hopefully help
+them out and change their perspective on life.
+
+“We aren’t going to do any of those things Ben.” Ralph reassured him. “I promise.”
+
+Standing up, Ben began to pace around the room. He kept saying to himself “No, no, no, no, no.” Over and over again.
+
+Ralph tried to calm Ben down. “Hey buddy, why don’t you sit down here. I promise we won’t do anything without your
+permission.” He said. Ralph reached into his pocket and pressed a button on a small device.
+
+A moment later, two orderlies came into the room. One grabbed hold of Ben by the arms while the other injected Ben with
+a drug to calm him down. It calmed him down alright, Ben collapsed to the floor unconscious.
+
+Ralph took a deep sigh of relief. “Thanks fellas.” He said. It was going to be a long day.
