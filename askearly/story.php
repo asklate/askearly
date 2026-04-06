@@ -48,6 +48,9 @@ $selected = "story";
     </div>
     <div class="column">
         <h2>2026</h2>
+        <p><a href="docs/2026/mental.pdf" target="_blank">Mental Hospital</a>
+            One patient at a time.</p>
+
         <p><a href="docs/2026/community.pdf" target="_blank">Community</a>
             Jessica is at a dead end job going nowhere until she meets some new friends.</p>
 
