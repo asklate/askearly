@@ -62,8 +62,8 @@ Some call this a crisis of faith which can be described as this:
 > personal tragedy, betrayal, or suffering. This experience can lead to profound spiritual growth and a deeper,
 > reconstructed belief system.[^2]
 
-I don't like the term "faith crisis", for I have not had a crisis of faith. I have a strong believe and faith in Jesus
-Christ my Savior and Redeemer and His Father, God, my Heavenly Father. I wouln't call what I'm going through a faith
+I don't like the term "faith crisis", for I have not had a crisis of faith. I have a strong belief and faith in Jesus
+Christ my Savior and Redeemer and His Father, God, my Heavenly Father. I wouldn't call what I'm going through a faith
 crisis. I have problems with organized religion. That falls under the thought process of following a man made
 religion. True, the LDS Church claims they are a restored religion based on Christ's original church. It is still
 an organized religion.
@@ -82,8 +82,21 @@ So, why can't those two people be me and God? Can't the Holy Ghost be with me at
 There was a bishop in one of my wards that stated that those two people can be you and Nephi, or you and Moses. You
 and whoever you're reading about at any given time.
 
-God speaks to us through revelation the same way that he led the Children of Israel through the Red Sea on dry
-ground.[^5] It is up to us to listen for those promptings given through the Holy Ghost.
+God speaks to us through revelation the same way that He led the Children of Israel through the Red Sea on dry
+ground.[^5] It is up to us to listen for those promptings given through the Holy Ghost. It is through the Holy
+Ghost that we can learn truth as it testifies of the Father and The Son. That's its main purpose is to testify
+of the truth.
+
+I remember as a missionary I wanted so much to always have the spirit in my life. To have that almost high
+feeling that it brings with it. We were instructed to teach people when they were feeling the spirit. Come to find
+out that people know what the spirit feels like. They don't need an outsider telling them what is and what isn't.
+
+There was a time when we were reading John 17 with a gentleman. After we had finished reading the verses, he
+was excited for he felt the spirit of the Lord. We didn't have to tell him the spirit was present for he knew it
+for himself. People aren't stupid, they know when they're feeling a gift from God.
+
+Maybe 18-20 year olds shouldn't be peddling the Gospel of Jesus Christ to people when they themselves don't
+know or have a complete testimony of what it is. But that's just my two cents on the matter.
 
 [^1]: Mark 16:15-16
 [^2]: What Does a Faith Crisis Feel Like?, (Source: Desiring God)
