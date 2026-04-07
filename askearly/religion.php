@@ -92,7 +92,8 @@ $selected = "religion";
         <p><a href="docs/religion/2026/04/luke-10.pdf" target="_blank">Luke 10:21-24</a></p>
         <p><a href="docs/religion/2026/04/living-life.pdf" target="_blank">Living Life</a></p>
         <p><a href="docs/religion/2026/04/mission-life.pdf" target="_blank">Mission Life</a></p>
-        <p><a href="docs/religion/2026/04/aof6.pdf" target="_blank">Article of Faith 6</a></p>
+        <p><a href="docs/religion/2026/04/aof06.pdf" target="_blank">Article of Faith 6</a></p>
+        <p><a href="docs/religion/2026/04/aof07.pdf" target="_blank">Article of Faith 7</a></p>
     </div>
 </div>
 
