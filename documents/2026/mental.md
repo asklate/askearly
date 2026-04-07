@@ -11,7 +11,7 @@ header-includes:
   - \fancyhead[L]{AskEarly dot NET}
   - \fancyfoot[L]{Kyle Eggleston}
   - \fancyfoot[C]{\thepage}
-  - \fancyfoot[R]{Monday, April 6, 2026}
+  - \fancyfoot[R]{Sunday, April 5, 2026}
 ---
 
 # 000 Timmy
