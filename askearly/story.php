@@ -137,6 +137,10 @@ $selected = "story";
               who was always on the cusp of discovering something new. When he came across
               the mirror, he got something he hadn't bargained for.</p>
 
+        <p><a href="docs/mirror/003-tempting-the-mirror.pdf" target="_blank">Temping The Mirror</a>
+            Alison receives the mirror as a gift and enters a world she doesn't expect with a
+            surprise she doesn't expect.</p>
+
         <h2>Adventures of Susan The Assassin</h2>
 
         <dl>
