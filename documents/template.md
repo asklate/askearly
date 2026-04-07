@@ -8,7 +8,7 @@ linestretch: 2
 header-includes:
   - \usepackage{fancyhdr}
   - \pagestyle{fancy}
-  - \fancyhead[L]{AskEarly.NET}
+  - \fancyhead[L]{AskEarly dot NET}
   - \fancyfoot[L]{Kyle Eggleston}
   - \fancyfoot[C]{\thepage}
   - \fancyfoot[R]{Monday, April 6, 2026}
