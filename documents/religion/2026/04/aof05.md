@@ -1,5 +1,5 @@
 ---
-title: Article Of Faith 5
+title: Article of Faith 5
 author: Kyle Eggleston
 date: Sunday, April 5, 2026
 ---
