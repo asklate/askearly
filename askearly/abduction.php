@@ -28,6 +28,9 @@ $selected = "story";
 
         <p>105 <a href="docs/abduction/100/105-downtown.pdf" target="_blank">Downtown</a>
             Miranda goes on a small shopping trip and runs into unexpected company.</p>
+
+        <p>106 <a href="docs/abduction/100/106-the-ship.pdf" target="_blank">The Ship</a>
+            Miranda visits her ship only to find some disturbing news from her people.</p>
     </div>
 </div>
 
