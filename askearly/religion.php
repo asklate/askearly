@@ -94,6 +94,7 @@ $selected = "religion";
         <p><a href="docs/religion/2026/04/mission-life.pdf" target="_blank">Mission Life</a></p>
         <p><a href="docs/religion/2026/04/aof06.pdf" target="_blank">Article of Faith 6</a></p>
         <p><a href="docs/religion/2026/04/aof07.pdf" target="_blank">Article of Faith 7</a></p>
+        <p><a href="docs/religion/2026/04/aof08.pdf" target="_blank">Article of Faith 8</a></p>
     </div>
 </div>
 
