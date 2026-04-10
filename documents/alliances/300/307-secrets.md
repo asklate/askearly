@@ -114,6 +114,13 @@ She said as she walked past the lieutenant.
 "Roger that." Killpack said. "Men, let's get to work." He sat down at the shuttle's controls and piloted it towards
 the alien spaceship.
 
+# Back Lot Twenty-Six
 
+Captain Shekti crawled out of the service crawlspace and into the back lot. Standing up, she waited for her contact
+to arrive. The problem with waiting like this was she didn't know when they would arrive. Only the place of meeting
+was given. She could be waiting for hours, maybe even days.
+
+So she waited and waited and waited. Three days passed without anyone coming to visit. Shekti windered if they were
+ever going to show up. She was growing impatient as she waited.
 
 \center The End
