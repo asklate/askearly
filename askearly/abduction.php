@@ -31,6 +31,9 @@ $selected = "story";
 
         <p>106 <a href="docs/abduction/100/106-the-ship.pdf" target="_blank">The Ship</a>
             Miranda visits her ship only to find some disturbing news from her people.</p>
+
+        <p>107 <a href="docs/abduction/100/107-day-off.pdf" target="_blank">Day Off</a>
+            Joe's day off begins with an unexpected experience.</p>
     </div>
 </div>
 
