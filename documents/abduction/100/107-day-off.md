@@ -184,7 +184,8 @@ fan of black coffee. It tasted terrible to her. The coffee cake was on point as 
 two bites. Granted it wasn't that big of a piece so that wasn't too difficult to do.
 
 "So ... I went and saw my ship." Miranda said. "Nothing's changed, the engine still won't start. Life support is
-in shambles. It's a mess. It's all just a mess right now."
+in shambles, it was working perfectly the other day. I don't know what happened. I just got an alert.
+It's a mess. It's all just a mess right now."
 
 Joe took a drink from his cup, "I wouldn't mind seeing your ship sometime." He said. "If that's okay, I mean."
 
