@@ -1,0 +1,107 @@
+---
+title: Underground
+subtitle: 108
+author: Kyle Eggleston
+date: Sunday, April 12, 2026
+indent: true
+linestretch: 2
+header-includes:
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \fancyhead[L]{AskEarly dot NET}
+  - \fancyfoot[L]{Kyle Eggleston}
+  - \fancyfoot[C]{\thepage}
+  - \fancyfoot[R]{Sunday, April 12, 2026}
+---
+
+Miranda sat at the kitchen table with a laptop in front of her. She was ... how did Joe put it? Surfing the
+World Wide Web? Something like that though most people these days called it the Internet. Some things seemed
+archaic by today's standards. She was looking for a specific mineral found in the Earth's mines. If she could
+get her hands on that mineral, she could possibly fix the shields on her ship. Without shields, the smallest
+particle of space dust could destroy her ship. Her life support wasn't working either. Even if she could get
+the ship off the ground, she wouldn't be able to breathe in the vacuum of space.
+
+Taking down the coordinates of the mine, Miranda got ready for the day. She found some boots and jeans to
+slip on. She would need some kind of pickaxe or something to mine the mineral she needed. Refining the raw
+mineral would be a different story. She wondered if she could manufacture the needed equipment from her ship's
+organic mobilizer. First things first though, she needed to get the mineral.
+
+The trip up the mountain was an arduous one especially carrying a pickaxe and a shovel. Stopping halfway to her
+destination, Miranda grabbed a bottle of water out of the backpack she was carrying. She took a sip of water, it
+was refreshing. She watched as a bird flew by and rested in the tops of a tree. Miranda marveled at the flying
+creature. They had similar creatures on her home world, but not as graceful. Her *birds*, for lack of a better
+term, were rather clunky when landing. It was neither graceful nor sweet. It was something quite awful in fact.
+
+A few more meters, and she came to a good resting spot. There was an abandoned mineshaft near her. She walked
+up to the entrance and shined a flashlight into the opening. It was dark inside. Using her pickaxe, she pried
+the boards covering the entrance away making a hole big enough for her to enter.
+
+Entering the mine, Miranda noticed her feet were wet. There was water on the ground. She kept walking deeper
+into the mine in search of the mineral she seeked. As she kept walking, her feet began to cramp. Miranda walked
+through the pain.
+
+Every once in a while she would place her hand on the side of the mine feeling for the mineral deep within the
+walls. She kept doing this until she felt a rather warm sensation. "This must be it." She whispered to herself.
+Miranda got to work striking the sides of the mine with her pickaxe.
+
+After a few hours of mining, she came across that which she was looking for. The mineral. It glowed blue
+in comparison to the rest of the surrounding rock. Placing her hand on the mineral, Miranda began shaking.
+The vibrations cut the mineral free from the surrounding rock, clear and free. She smiled at her success.
+Touching more mineral parts, Miranda was able to free more of it until she had enough to start repairs
+to her ship.
+
+Walking down the mountain was easier than walking up the mountain. Miranda was wiped out, she didn't feel
+up to working on her ship at the moment. She made her way back to Joe's apartment. After a moment of rest
+she could go back to her ship and work on it some. At least get life support functional again.
+
+As she entered the apartment, Miranda took off her clothes and started a hot shower. As the water ran down her
+body, she smiled. It was a great feeling to get all the dirt and grime from the mines off of her body. Washing
+her hair was even more fulfilling. She continued to smile. Then the music started.
+
+"Alexa, stop." Miranda shouted. the music didn't stop. Whatever was playing the music, it wasn't Alexa.
+She was confused about where the music was coming from. Turning off the water, Miranda grabbed a towel and
+started to dry off. She stepped out of the shower and entered the living room.
+
+There was a woman sitting at the kitchen table. She turned to face Miranda. "Miranda is it?" The woman
+asked.
+
+Miranda nodded her head. "Yes, and you are?"
+
+The woman smiled. "Shirley Donaldson, director of the misnamed Men in Black movement." She sighed. "I come in
+peace. I know how that sounds, but it's the truth."
+
+Miranda placed her hands on her hips. "You tried to abduct me." She said. "I was shopping and your goons tried
+to take me to wherever your lair is."
+
+Shirley laughed. "My lair. Classic." She continued to laugh. "Listen, I don't call my headquarters a lair. So
+wherever you heard that nonsense, forget it." She paused. "We have your ship. It's in need of repair, we want to
+help you repair your ship."
+
+Miranda froze. They had her ship? No way. There was no way in hell they had her spacecraft. She had just seen
+it the other day. It wasn't in danger of being possessed by anyone, especially some secret government agency.
+"Bullshit." She said. "I don't believe you."
+
+Pulling a phone out of her pocket, Shirley played back a video of Miranda's ship in a hanger deep underground.
+"Does *this* change your mind on the matter?"
+
+Miranda gasped. "How dare you! That's my personal property. You have no right holding my ship. What do you
+want with it? What do you want with me?"
+
+Shirley stood from the kitchen table and walked over to Miranda. "We need your expertise on making the ship
+function. There appears to be quite a bit of cascading failures all throughout its main systems." She sighed
+"I need your help."
+
+Miranda was confused. "Why would I help you?" She asked. The question was legit. Miranda couldn't trust this
+woman standing in Joe's kitchen. There was nothing she could do about it.
+
+"Because" Shirley continued "If you don't, I'll kill Joe. He *is* important to you to some degree right?"
+
+Miranda could feel her hearts quicken. "What have you done to him?"
+
+Shirley shrugged. "Nothing *yet*." She said. "But he won't be coming home anytime soon. Not until you help
+us." Shirley smirked at Miranda. She had the higher card and there was nothing Miranda could do about it.
+
+Miranda didn't like feeling helpless. It wasn't a feeling she as accustomed to and one she didn't want to become
+accustomed to anytime soon. This was too much for her. But if she wanted to see Joe alive again, she would have
+to help Shirley out to some degree. At least until she could rescue Joe and hopefully fix her ship enough to
+escape this terrible planet.
