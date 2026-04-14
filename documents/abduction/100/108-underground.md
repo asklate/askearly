@@ -119,3 +119,23 @@ Picking up the bag, Shirley smiled. "Good. Get dressed. We leave in twenty minut
 
 Miranda turned and walked out of the living room towards the bedroom. *There has to be a way out of this.* She
 thought, but couldn't come up with a reasonable plan of escape. Miranda would have to play along for now.
+Entering the bedroom, Miranda snapped her fingers. The towel disappeared, and she was now wearing blue jeans
+and a t-shirt that had some obscure band on it. Another one of Joe's favorites. If she was going to help
+some secret government agency, she wanted to be comfortable while she did it.
+
+Walking out of the bedroom, Miranda stared Shirley down. "Alright, let's get this over with." She said.
+Deep down inside, Miranda knew it wasn't going to be as simple as fixing her ship. Once she was in the
+government's clutches, she was in it and there wouldn't be an easy way out. Not without a fight.
+
+Shirley stood from the kitchen table and approached Miranda. She held a black hood in her hands. "Put this
+on." She ordered.
+
+Miranda did as she was told.
+
+Taking a taser out of her pocket, Shirley pointed it at Miranda. "I hope you can understand why this is
+necessary." She fired the taser. Miranda dropped to the floor almost immediately. Shirley frowned. "That was
+almost too easy." She remarked. Shirley nudged Miranda's leg with her foot. She didn't move, Miranda was out cold.
+
+Taking a radio out of her pocket, Shirley activated it. "Team one, you're up." She spoke into the radio.
+
+Two men wearing black suits walked into the apartment. They picked Miranda up and carried her out the door.
