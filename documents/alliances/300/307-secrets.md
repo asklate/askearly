@@ -120,7 +120,15 @@ Captain Shekti crawled out of the service crawlspace and into the back lot. Stan
 to arrive. The problem with waiting like this was she didn't know when they would arrive. Only the place of meeting
 was given. She could be waiting for hours, maybe even days.
 
-So she waited and waited and waited. Three days passed without anyone coming to visit. Shekti windered if they were
+So she waited and waited and waited. Three days passed without anyone coming to visit. Shekti wondered if they were
 ever going to show up. She was growing impatient as she waited.
+
+A man exited the same service crawlspace Shekti had entered the back lot from. He approached the captain and smiled.
+Walking towards the captain, he smiled. "Captain Shekti is it?" The man said.
+
+"Yes." Shekti responded. "I received your message. It was ... cryptic."
+
+The man nodded his head. "Yes, I had to make sure anyone who came across it wouldn't understand it. But just enough
+to pique your interest. Which it appears that it did." He smiled.
 
 \center The End
