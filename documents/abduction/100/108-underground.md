@@ -101,7 +101,21 @@ Miranda could feel her hearts quicken. "What have you done to him?"
 Shirley shrugged. "Nothing *yet*." She said. "But he won't be coming home anytime soon. Not until you help
 us." Shirley smirked at Miranda. She had the higher card and there was nothing Miranda could do about it.
 
-Miranda didn't like feeling helpless. It wasn't a feeling she as accustomed to and one she didn't want to become
+Miranda didn't like feeling helpless. It wasn't a feeling she was accustomed to and one she didn't want to become
 accustomed to anytime soon. This was too much for her. But if she wanted to see Joe alive again, she would have
 to help Shirley out to some degree. At least until she could rescue Joe and hopefully fix her ship enough to
 escape this terrible planet.
+
+"Take me to Joe." Miranda demanded. "I need to make sure he's okay."
+
+Shirley shook her head. "You'll have to take my word for it that he's okay. *You* don't get to make the rules
+here. *I* am in charge." She folded her arms across her chest. Pointing to the bag Miranda had carried back
+home, she continued. "I take it you were able to extract enough of the mineral you needed?"
+
+Miranda glanced at the bag. She wished she had more of it in case she needed it, but the amount she did have
+would work. She nodded slowly. "Yes."
+
+Picking up the bag, Shirley smiled. "Good. Get dressed. We leave in twenty minutes."
+
+Miranda turned and walked out of the living room towards the bedroom. *There has to be a way out of this.* She
+thought, but couldn't come up with a reasonable plan of escape. Miranda would have to play along for now.
