@@ -151,7 +151,7 @@ turned to go.
 
 Jeff Killpack didn't know what he was looking for. Something, anything really, out of the ordinary. It wasn't
 typical for a ship to demand docking due to important reasons and then for the captain to simply rush off without
-further word. On the plus side, he had free reign of her ship to search for anything suspicious.
+further word. On the plus side, he had free rein of her ship to search for anything suspicious.
 
 
 
