@@ -45,6 +45,9 @@ $selected = "story";
 
         <p><a href="docs/thoughts/current-state.pdf" target="_blank">Current State</a>
             Depression at its worst.</p>
+
+        <p><a href="docs/thoughts/voices-and-hallucinations.pdf" target="_blank">Voices and Hallucinations</a>
+            Just some thoughts on hearing voices and seeing things.</p>
     </div>
     <div class="column">
         <h2>2026</h2>

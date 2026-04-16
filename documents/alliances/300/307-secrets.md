@@ -129,6 +129,30 @@ Walking towards the captain, he smiled. "Captain Shekti is it?" The man said.
 "Yes." Shekti responded. "I received your message. It was ... cryptic."
 
 The man nodded his head. "Yes, I had to make sure anyone who came across it wouldn't understand it. But just enough
-to pique your interest. Which it appears that it did." He smiled.
+to pique your interest. Which it appears that it did." He smiled. It was an evil smile, a smile not to be trusted
+but Shekt didn't care, the man had a job for her and that was good enough.
+
+"Why don't you tell me the details." She said.
+
+"Right down to business, I like that." He responded. "I need you to transport an item." He continued. "It's not
+really on the level, if you catch my drift. It will take some ... doing." That damn smile returned as he interlocked
+his fingers.
+
+Shekti hesitated. "Nothing dangerous I hope. I'm not about to ship weapons or explosives."
+
+The man shook his head. "No, no, nothing like that. This is more delicate. You'll see when the shipment arrives." He
+turned to go.
+
+"Wait." Shekti said. "How will I know when it arrives?"
+
+"I'll be in touch." He said behind his back as he exited the back lot.
+
+# Shekti's Ship
+
+Jeff Killpack didn't know what he was looking for. Something, anything really, out of the ordinary. It wasn't
+typical for a ship to demand docking due to important reasons and then for the captain to simply rush off without
+further word. On the plus side, he had free reign of her ship to search for anything suspicious.
+
+
 
 \center The End
