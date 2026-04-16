@@ -153,6 +153,22 @@ Jeff Killpack didn't know what he was looking for. Something, anything really, o
 typical for a ship to demand docking due to important reasons and then for the captain to simply rush off without
 further word. On the plus side, he had free rein of her ship to search for anything suspicious.
 
+Looking in the cargo bay, Killpack and his men search box by box. Most of the crates contained food stuffs.
+Then he came across a strange container, one complete with security locks on it. "What do we have here?" Jeff
+asked out loud. It was more to himself than anyone else.
 
+Jeff tried a simple password key combination on the crate with no success. He continued to try different combinations,
+and they all didn't work. Then an alien voice started talking. Jeff quickly pulled out his translation orb.
+
+"Maximum attempts utilized. Self-destruct in ten seconds." The voice said.
+
+"Oh shit." Jeff said. He ran out of the cargo bay as the crate exploded. A piece of shrapnel from a meteor
+fragment pierced his leg. Jeff fell to the deck. He crawled out of the cargo bay the rest of the way into
+the corridor where one of his men was waiting. They helped Jeff to his feet and they made their way back
+to the shuttle.
+
+# Med Bay
+
+Jeff Killpack hobbled into Med Bay.
 
 \center The End
