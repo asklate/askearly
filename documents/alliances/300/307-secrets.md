@@ -36,7 +36,7 @@ Jack smiled at Grilka. "Yes, you sure did find me." He said.
 Grilka had a concerned look on her face. "When you didn't say anything this morning before you left, I got worried.
 Is everything okay my darling?"
 
-Jack nodded his head. "Yes love. Everything is fine. I just have a lot going on in my head at the moment is all. 
+Jack nodded his head. "Yes love. Everything is fine. I just have a lot going on in my head at the moment is all.
 Nothing big. I'll be fine." He turned around and leaned on the railing, so he could face Grilka. Jack smiled at her.
 "You're beautiful, you know that?"
 
@@ -51,7 +51,7 @@ are my chief concern, you included. I have to protect you all at whatever the co
 
 Grilka nodded in response. "I see, thinking about going to war with anyone anytime soon?" She teased.
 
-Jack shook his head. "No, of course not. But if we were to go to war, I want this station to be ready for it." He 
+Jack shook his head. "No, of course not. But if we were to go to war, I want this station to be ready for it." He
 paused. "I don't want anything to happen to you."
 
 "I know." Grilka said. "I don't want anything happening to you either." She looked down at a shopkeeper and waved
@@ -105,7 +105,7 @@ It was possible they wouldn't find anything and Kate was jumping the gun, but sh
 couldn't afford to have any mishaps while she was on watch. The last thing the station needed were any surprises.
 
 Down in Docking Port Sixty-Seven, security guards waited for a shuttle to dock. As the shuttle docked and the doors
-opened, Security Chief Killpack and a handful of officers entered and met Captain Shekti halfway. "Pardon me ma'am." 
+opened, Security Chief Killpack and a handful of officers entered and met Captain Shekti halfway. "Pardon me ma'am."
 He said. "I have orders to search your ship. Routine inspection."
 
 The captain didn't seem fazed by the search orders in the least. "Fine, do whatever you have to do. I must be going."
@@ -169,6 +169,28 @@ to the shuttle.
 
 # Med Bay
 
-Jeff Killpack hobbled into Med Bay.
+Jeff Killpack hobbled into Med Bay with one of his subordinates by his side. "Doc!" Jeff yelled out across the
+room as he looked for Matt Allen. He hoped the doctor would be in and there wouldn't be one of his subordinates
+working the shift. Not that Jeff didn't trust Matt's coworkers, but he trusted Matt with his life more than anyone else.
+
+Matt came rushing out of his office. "Jeff?" He said. "What's wrong?"
+
+Jeff pointed to his leg. "Something jabbed itself into my leg after a crate exploded. I don't know what it was, 
+some kind of mineral or something. Man I hope it's not radioactive."
+
+Matt gestured to a surgical bed "Have a seat, let's take a look." Grabbing a scanner he approached Matt and began
+scanning his leg. "Hmmm." He grunted.
+
+"Hmmm?" Jeff said echoing Matt's words. "What is it?"
+
+Matt frowned. "There's no trace of the ... element in your leg. It was absorbed into your leg. It's gone." He
+continued to run scans on Jeff's leg. "From the looks of things, your leg has completely healed. Remember that
+nasty break you had two years ago?"
+
+Jeff nodded. "Yeah, shattered my leg. You had to fix me up pretty good."
+
+"There's no sign of the surgery I performed. Even *that's* fixed." Matt said confused. "I don't understand how
+this is possible. Whatever that substance was that entered your body, it's altered your chemistry somehow. I
+want to run more tests."
 
 \center The End
