@@ -300,4 +300,27 @@ few radicals. Not many people backed it at all. But it was a terrible thing that
 "Yeah well, it *still* stings to this day. I *still* wonder if there was anything I could do to have saved my
 parents. Instead, I ran like a coward." She frowned and then sighed out of frustration.
 
+"There is always an opposition to things." Jack said. "Sometimes it doesn't make sense and that's unfortunate. But
+I do want to know why Lieutenant Killpack has such interest in you." He paused. "It took me some doing just to
+even see you."
+
+Susan smiled. "Oh that, yeah that was a misunderstanding between the lieutenant and me. Nothing really. Just
+kids being kids on the playground." She folded her arms as if to say she wasn't going to have anything else to
+say on the matter.
+
+Jack made a note to speak with Lieutenant Killpack at a later date. He wanted to know the reasons behind holding
+this woman without reason or cause. Kids being kids wasn't a reason in his mind. "Thank you for your time." Jack
+said as he exited the cell. The force field went back up.
+
+Susan watched the station commander go and smirked to herself. He was kinda cute, clueless, but cute.
+
+"Thanks for the ten minutes ensign, we'll skip the court-martial this time." Jack chuckled as he walked out of
+security.
+
+# Engineering
+
+Madison Park was hard at work trying to ignore the lump in her breast. She figured she *should* pay a visit to
+Doctor Allen but wasn't sure when she would do that. There was too much work on the station that needed to be done,
+she could ignore it a bit longer. This was her secret for the time being, one she would keep as long as she could.
+
 \center The End
