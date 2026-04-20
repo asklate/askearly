@@ -180,7 +180,10 @@ $selected = "story";
             Jack O'Brien goes on a mission while the rest of the crew wonder where he went.</p>
 
         <p>306 <a href="docs/alliances/300/306-under-the-sky.pdf" target="_blank">Under The Sky</a>
-            Suspicions arise when faillures occur all over the station.</p>
+            Suspicions arise when failures occur all over the station.</p>
+
+        <p>307 <a href="docs/alliances/300/307-secrets.pdf" target="_blank">Secrets</a>
+            Everyone has a secret or two, Crimson Gamma is no different.</p>
     </div>
 </div>
 

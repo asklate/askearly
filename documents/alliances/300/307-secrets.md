@@ -323,4 +323,101 @@ Madison Park was hard at work trying to ignore the lump in her breast. She figur
 Doctor Allen but wasn't sure when she would do that. There was too much work on the station that needed to be done,
 she could ignore it a bit longer. This was her secret for the time being, one she would keep as long as she could.
 
+"Son of a bitch!" Madison yelled as she threw a wrench across the room. She was frustrated and confused.
+
+"Did the wrench do something wrong?" Kate Monson said with a slight chuckle. As Madison turned around, Kate dropped
+the smile. Something was definitely wrong. "What is it?"
+
+Madison fought back tears. No one was supposed to know yet. She had to remain strong. "Nothing, it's nothing. Just
+another bad day at work." She continued her work on the thruster assembly sitting on her work bench.
+
+Kate wasn't convinced that it was *nothing*. "You know you can talk to me." She said as she walked closer to Madison.
+
+Madison shook her head. No she couldn't. She didn't want to bother the first officer of the station with *her* medical
+problems. What could she do about it? Nothing. "I'm fine, really. Just trying to get this thruster assembly working
+is all."
+
+Kate looked at the damaged thruster. "Check the RCS Control Valve, I bet the problem lies there." Kate turned around
+and walked out of engineering. If Madison wanted to talk, it would have to be on her terms. Kate couldn't force her
+hand.
+
+Madison checked the RCS Control Valve, tweaked a few settings and activated the test sequence. The lights turned green.
+The thruster was fixed. She turned to thank Kate, but saw that she was gone. "Son of a bitch." Madison muttered under
+her breath.
+
+# Cargo Bay Four Seven
+
+Captain Shekti stood in a mostly empty cargo bay. She had been summoned by the man she met in the back lot. Shekti 
+paced around the empty deck. Looking above her, there were a few crates marked fragile suspending from the ceiling in
+a force field. She wondered what was in them. One crate was marked hazardous materials. She made a mental note to
+stay away from that one.
+
+"Good you're here, and on time." The man from earlier said as he approached Shekti.
+
+Shekti turned around and nodded. "Yes, I'm here. Now, what cargo do you have for me?"
+
+Snapping his fingers, he signaled his guards. Two other men brought in a large crate roughly six feet in length.
+"Here it is." The man said. "Inspect it if you wish, but I wouldn't bother. It's nothing special. Just delicate."
+
+Shekti looked at the crate, it was made out of some alloy she had never seen before. Pressing a button on the crate,
+it released the various latches allowing her to open it. Shekti removed the lid and couldn't believe her eyes. Inside
+the crate was a human. She looked to the man. "Explain. You know I can't smuggle humans aboard my ship. Explain."
+
+The man held up his hands. "No, no, you got it all wrong. This isn't a human. Hell, it's not even alive. It's an android."
+He said. "I need it shipped to Earth where my assistant is waiting for it. That's all." He continued. "I'd do it myself,
+but I have other things to attend to that require my attention."
+
+Shekti nodded. "Alright, double the pay, and we'll call it a deal." She proceeded to put the lid back on the crate.
+
+The man lowered his hands. "You have a deal. I'll deposit the money once you reach Earth and make the drop-off."
+
+Shekti shook her head. "Half up front, half upon delivery or the deal's off."
+
+The man thought about it for a second and then nodded his head. "I can do that." Pulling out a datapad he handed it to
+Shekti. "All I need is your thumbprint."
+
+Shekti accepted the pad and placed her thumb on the scanner. It read *Transaction Complete*, she smiled. "Pleasure doing
+business with you. Station security should be done looking over my ship by now, I should be able to leave within the
+hour."
+
+"Security was looking over your ship?" The man's voice quivered. "What did they want?"
+
+Shekti shrugged. "Dunno, didn't ask. I was too busy trying to find you." She looked around "We're done here?"
+
+The man nodded and turned around, his goons followed him. "Yeah, we're done. Reach out to me if you run into any
+problems or when you reach Earth and make the delivery."
+
+Shekti sighed, the money was too good to pass this up. She wasn't doing anything technically illegal. The android
+was powered off, she could pass it off as equipment. Had it been awake, that would be a different problem trying to
+get it past security. Contacting her ship, she arranged for a site to site teleport. The sooner she got out of there
+the sooner she could leave the station.
+
+A few moments later, Shekti was sitting in her chair aboard her ship. Everything was secured. She was looking over the
+security logs. She wanted to know exactly what station security wanted with her ship. Nothing seemed out of the
+ordinary, until she saw Lieutenant Killpack's interaction with the exploding crate. "You fool!" She yelled slamming
+her hand down on the console in front of her. Shekti wondered what powers he would receive due to his carlessness.
+Unfortunately she didn't have time to find out.
+
+Shekti rocked in her chair for a moment as she struggled to keep her form. Being a shifter had its letdowns. She could
+only hold a shape for so long before reverting to her natural state. Finally, giving up, she allowed herself to revert
+to her natural form. Spikes grew out of the back of her head. She breathed a sigh of relief. It felt good to be herself
+again. Not many people wanted to work with shifters, her kind wasn't trusted easily. So she hid it whenever possible.
+
+"Disengage docking clamps. Let's get away from here." She ordered to her crew. "Set a course for Earth, maximum speed."
+
+# C&C
+
+Kate Monson watched as Shekti's ship departed the station. She was glad it was gone, something gave her the willies
+about that ship, and she didn't like it. Looking at the time, she smiled. Her shift was almost over.
+
+As Kate's relief entered the C&C, she smiled at them. "Nothing out of the ordinary to report. Just a normal day."
+
+"Aye commander." The lieutenant said. "You are relieved."
+
+Kate turned control of C&C over to the lieutenant and left C&C.
+
+"Computer, being night watch." The lieutenant said. At her command, the lights dimmed a little. The atmosphere changed.
+It was nighttime, time to kick back and relax for a while. Nothing important ever happened on night watch. The day shift
+always had all the fun. Lucky bastards.
+
 \center The End
