@@ -265,13 +265,13 @@ The woman looked over at the major. She was lying down on a simple cot. Both set
 chest and abdomen. "About time someone from the command crew showed interest in me." Susan sat up and rested
 her second set of arms on the cot for support. "What can I do for you ... major?"
 
-O'Brien keyed in a sequence on the pad next to the cell. A opening in the force field appeared, it was large
+O'Brien keyed in a sequence on the pad next to the cell. AN opening in the force field appeared, it was large
 enough for him to step inside. Walking inside the cell, he grabbed a chair and sat down across from Susan. "Oh,
 I just wanted to talk to you." Jack said with a smile. "Not everyday we get an alien from Earth."
 
 Susan laughed. "Yeah, well my parents weren't your typical earthlings. They didn't believe in phobias against
 different alien races. I think that's why they adopted me. I come from a dying race, one very few people have
-heard about. I was born on Earth when my parent's ship crash landed in the Rocky Mountains. My mother went
+heard about. I was born on Earth when my parent's ship crash-landed in the Rocky Mountains. My mother went
 into labor, and died soon after. The ... earthlings that found me were hiking nearby. They took me in as one
 of their own."
 
@@ -293,11 +293,11 @@ a good look at his face, but I remember his final words to them." She paused for
 sympathizers." Susan looked to the ceiling for a seconad and then back to Major O'Brien. "He was part of the
 Earth is only for Humans movement."
 
-Jack's face showed it all. Anger, hate, sadness. All the feelings were flooding to the surface. "A short lived
+Jack's face showed it all. Anger, hate, sadness. All the feelings were flooding to the surface. "A short-lived
 movement if I remember correctly." He finally said. "There were only a few outliers when it came down to it. A
 few radicals. Not many people backed it at all. But it was a terrible thing that happened."
 
 "Yeah well, it *still* stings to this day. I *still* wonder if there was anything I could do to have saved my
-parents. Instead I ran like a coward." She frowned and then sighed out of frustration.
+parents. Instead, I ran like a coward." She frowned and then sighed out of frustration.
 
 \center The End
