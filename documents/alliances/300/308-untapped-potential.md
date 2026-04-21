@@ -159,6 +159,108 @@ talked into their communication devices. Probably with C&C, reporting what they 
 
 Jeff had a thought, he looked to the outer airlock door. It was a crazy thought, but it was a thought. Walking back
 to the outer airlock door, he forced it the rest of the way open and stepped outside. Clinging onto whatever he could
-grab hold of, he walked along the side of the hull towards Airlock Twenty-Four. The maintenance crew saw what he
-was attempting and followed his lead. Running down to Airlock Twenty-Four, they opened the outer airlock door so
-Jeff could enter.
+grab hold of, he walked along the side of the hull towards Airlock Twenty-Four.
+
+The maintenance crew saw what he was attempting and followed his lead. Running down to Airlock Twenty-Four, 
+they opened the outer airlock door so Jeff could enter.
+
+Reaching the airlock, Jeff stepped inside and watched as the door closed behind him and the airlock began to 
+pressurize. He breathed in the cool air and smiled. He was alive. The inner airlock door opened up allowing
+him back into the station.
+
+"Sir, we need to get you to Med Bay." One of the maintenance crew said.
+
+Jeff didn't put up a fight. He was having a crazy day. "Yeah, let's go." They headed down the hallway to a transport
+tube that would take them to their destination.
+
+# Med Bay
+
+"You managed to do *what*?" Was Matt's first response to what had happened.
+
+The maintenance crew member nodded his head in agreement with Jeff. "Yes sir, I saw it happen. He was in the vacuum
+of space without oxygen and he survived."
+
+"Come here and lay on this surgical bed, I want to take some readings." Matt said guiding Jeff over to an empty bed.
+
+Jeff laid down as Matt placed a large scanner over his chest and began taking readings.
+
+Matt pressed some buttons on a console. "This won't hurt a bit." He said. "Madison called me earlier, said you
+caught a rather large barrel that was about to fall on her. That's quite impressive."
+
+Jeff shrugged. "I suppose so, what's happening to me doc? I didn't have these abilities yesterday>" He paused. "What
+changed?"
+
+Matt tapped a stylus against his chin as he thought. "Whatever was absorbed into your body has got to be doing this
+to you. Your entire genetic makeup is evolving. You're ... well you're beyond what we could conider human at this
+point."
+
+Jeff sighed. "Great, I'm a freak show." He said.
+
+"Oh I wouldn't say that." Major O'Brien said from the doorway. "But I do want to know if you're a danger to yourself
+or this station."
+
+Jeff tried to sit up but was restrained by the scanning device. "Major. I'm sorry sir. I didn't mean to cause
+any trouble." He said. "I was just ..." His voice trailed off.
+
+O'Brien held up a hand. "Say no more Jeff. We're good. We're going to figure this all out together. I promise."
+
+Two hours later, Matt was done with his tests. He removed the scanning device from Jeff's chest and set it aside.
+Jeff had fallen asleep. Matt woke him up. "Jeff, wake up." He said.
+
+Jeff stirred. "Oh sorry doc, I must have dozed off. Are we done?"
+
+Matt nodded. "Yeah, you can sit up now."
+
+Sitting up, Jeff felt a rush of energy. It was unlike anything he had seen before. It felt amazing. "What did you
+find out?"
+
+Matt folded his arms. "Your cells are regenerating at a fast rate, faster than any ... normal human. You don't need
+oxygen to breathe. Your cells aren't damaged, they're better than they were earlier this morning. I can't explain it."
+He rubbed his chin. "By all accounts you should have died when you left that airlock into space. But you didn't."
+
+Jeff shook his head. "I don't understand it man." He said. "Am I a danger to anyone like the major is afraid of?
+If I am, I need to be locked up asap."
+
+Matt shook his head. "No, I don't think you're a danger to anyone on the station. I do want to keep an eye on you, so
+I'll be putting a monitor on you for the time being. You're also off duty until further notice." He placed a small 
+round device behind Matt's left ear. "This will monitor your movements and send me readings from time to time to
+make sure nothing else strange happens. You're free to go."
+
+Jeff slid off the surgical bed and headed for the door. "Thanks doc." He said.
+
+# Security
+
+The doors parted as Jeff entered Security. The ensign on duty stuttered a greeting, or half greeting. "Good evening
+sir. Um, what, what can I do for you?" He straightened up in his chair.
+
+Jeff smiled at the ensign. "Easy ensign, I'm not here in an official capacity. I've been relieved of my duties for
+the time being. I just need to talk with prisoner four one seven two."
+
+The ensign hesitated for a second. "I ... you're not in charge?"
+
+Jeff sighed, maybe he should have waited to tell that part until *after* he talked with Susan Gibson. Yet, there
+it was out in the open. "Yeah, I'm not in charge. I'm asking you for a ... favor, from a friend." He tried to
+smile for a second, but couldn't manage to keep it going. He really needed to see Susan.
+
+"Alright, you can meet with her for ten minutes. No more than that." The ensign said. He pressed a button releasing
+the door lock to the brig.
+
+Jeff smiled. "Thanks Earnie, I won't forget this." He walked into the brig and waited for the door to close behind him.
+Jeff began the long walk down towards Susan's cell. It was at the end of the hallway. Reaching the cell, he stared
+inside. Susan was laying on a cot.
+
+She looked over at Jeff. "Well well well, if it isn't the jailer." She smirked as she sat up. "Here for another
+round?" She laughed. Jeff always came down to the brig to play with her. It was something she looked forward to.
+
+Jeff shook his head. "Not this time, I need to know what *they* did to me."
+
+Susan cocked her head to one side. Now he had her attention. "Who are *they*?" She asked.
+
+Jeff lowered the force field and stepped inside the cell. Grabbing a chair he sat down and proceeded to tell her the
+whole story of how he found the exploding crate, and how he had super human strength as well as not having to breathe.
+
+Susan sat there with her mouth wide open. "No fracking way!" She exclaimed. "Well first off those aliens you ran into
+are shape-shifters. They can be anything they want to be, and I mean *anything*. That crate that exploded was 
+probably an experiment of theirs to gain powers of some kind. I'm sure they're pissed at you for blowing up their
+property."
+
