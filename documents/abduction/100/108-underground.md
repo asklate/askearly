@@ -139,3 +139,50 @@ almost too easy." She remarked. Shirley nudged Miranda's leg with her foot. She 
 Taking a radio out of her pocket, Shirley activated it. "Team one, you're up." She spoke into the radio.
 
 Two men wearing black suits walked into the apartment. They picked Miranda up and carried her out the door.
+
+An hour later, they were underground. Miranda was sitting on a chair, with the hood still on, facing her
+ship. "What's going on?" She asked. "Where am I?"
+
+Shirley sighed, "We've been over this Miranda." She said. "You're in a hanger with your ship, that we
+need you to fix. Gosh, don't you remember anything?" She removed Miranda's hood.
+
+Miranda adjusted her eyes to the light. Which was rather dim for her liking. Looking around she focused on her ship
+and then looked for an exit. There were no exits, just a slit in the ceiling. *So that's how you got the ship down
+here.* She thought. *Very clever.*
+
+Then she noticed the restraints on her wrists. "Let me go, I can't help you if you don't release me."
+
+"Interesting, thought you *aliens*  could move things with your mind." Shirley responded. "Shouldn't you be able
+to fix it from there?"
+
+Miranda scoffed and shook her head. "No bitch, I can't. Now let me go or the deal's off."
+
+Shirley folded her arms. "There is no deal." She reminded Miranda. "You're helping me whether you like it or not."
+Shirley released Miranda from her restraints. "Okay, get to work. The mineral is in that bag over there." She pointed
+over to the corner.
+
+Miranda stood from the chair and walked over to the bag of minerals. Picking out a good-sized chunk, she looked
+around for a refinement machine. There wasn't any equipment in the room. "We have a problem." She said. "I see no
+equipment here to refine the mineral. I'm going to need *something*."
+
+Shirley nodded. "What do you need? We can procure it for you."
+
+Miranda began rambling off all the equipment she needed, ending with one unusual item. "... and a nuclear warhead."
+
+Shirley nodded "Nuclear... wait what?" She looked up from her notepad. 
+
+"You heard me." Miranda said. "This thing doesn't run off steam you know."
+
+"Right." Shirley said finishing her note, "One nuclear warhead. Check." She looked over the list. "Anything else?"
+
+Miranda thought about it for a bit and then shook her head. "Nope, that should be all."
+
+"Alright, I'll get these things together." Shirley said. She exited the room leaving Miranda alone with her ship.
+
+Walking over to her ship, Miranda felt the side of it. It was cool to the touch. Her ship was usually warm like a
+living being. Too cold, or the wrong temperature and the ship wouldn't function properly. That was possibly some
+of the reasons her ship was in trouble now.
+
+Now all she had to do was wait for supplies. Miranda hoped it wouldn't be that long of a wait.
+
+\center The End

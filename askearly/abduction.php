@@ -34,6 +34,9 @@ $selected = "story";
 
         <p>107 <a href="docs/abduction/100/107-day-off.pdf" target="_blank">Day Off</a>
             Joe's day off begins with an unexpected experience.</p>
+
+        <p>108 <a href="docs/abduction/100/108-underground.pdf" target="_blank">Underground</a>
+            Miranda is taken hostage by the Men in Black.</p>
     </div>
 </div>
 
