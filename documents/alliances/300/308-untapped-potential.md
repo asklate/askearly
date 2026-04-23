@@ -264,3 +264,73 @@ are shape-shifters. They can be anything they want to be, and I mean *anything*.
 probably an experiment of theirs to gain powers of some kind. I'm sure they're pissed at you for blowing up their
 property."
 
+Jeff sighed, the last thing he wanted to be was *Superman*. Sure he enjoyed the comics and the shows and movies,
+but that was all make believe. It wasn't real. Yet here he was manifesting some kind of abilities. He wondered
+what else he was capable of or would be capable of in the future. He figured time would tell.
+
+"Thanks for the info." Jeff said as he smiled. "I'll put in a good word for you with the interim security chief."
+
+Susan laughed. "They pulled you off duty? Who's gonna come visit me now?"
+
+Jeff stood from the chair and shrugged. "Not sure, I have other things on my mind right now. We'll see you later,
+I guess." He exited the cell and raised the force field again.
+
+Susan scoffed as she watched him walk away. their game of chess wasn't over. In reality, it was only just beginning.
+
+# Madison's Quarters
+
+Chief Park walked into her quarters. She was tired and wanted nothing to do but take a shower and sleep. Walking to
+her bedroom she was leaving clothing on the floor as she took them off. They would be there when she got out, she 
+was sure of it. Madison turned on the shower and let it get hot. Hotter than usual. Stepping in, she allowed the
+water to run down her body. It felt good.
+
+She thought about her family back home. The ones she didn't speak to. She wondered if they would even care that
+she found a lump and possibly had cancer. Lowering her head, she figured they wouldn't give a damn about her
+condition. She had written them all off for a reason. Madison couldn't go back on that now, it was simply too late
+for any kind of resolution to their problems.
+
+Feeling the lump in her breast, she noticed it had increased in size. "Frack!" She muttered under her breath.
+
+"Warning, water shut off in five minutes." The computer said letting Madison know her time was almost up. She was
+pulled away from her thinking for a moment.
+
+"Computer, tap into tomorrow's water rations." Madison ordered.
+
+The computer beeped. "Command level authorization required."
+
+Madison shouted. "Frack!" *I designed the damn system, I should have control over how much water I use!* She
+thought. "Forget it! Shut the damn water off." The shower turned off.
+
+Madison stepped out of the shower and grabbed a towel. She began drying off. Looking in the mirror she sighed,
+still the same ol' Madison. Still the same ol' problems. Her mom had stage four of ... something ... Madison never
+found out exactly what. She wondered if her mom was still alive.
+
+One would think with all the medical advancements over the years, they would have cured cancer by now. No such luck.
+Cancer was a very real threat still to this day. She couldn't count the number of times she heard someone had cancer.
+It had been way too many.
+
+Madison's door chimed. She ran and put on a robe. Walking back into her living room she called for the door.
+"Enter." She looked at the floor, her clothes were still there. *Eh, whatever.* She thought, this was her time.
+
+The door opened. Jeff Killpack was standing there. "I hope I'm not intruding." He said noticing Madison's state
+of dress.
+
+Madison shook her head. "No, no trouble at all." She said. "Please come in, what can I do for you? Can I get you
+a drink or something?"
+
+Jeff entered Madison's quarters. "No, I'm good, thanks. I came by to check in on you." He said. "You had quite an
+afternoon with that barrel almost hitting you."
+
+Madison nodded "But it didn't, thanks to you."
+
+Jeff smiled. "You bet chief. I'll leave you to your evening." He turned to leave.
+
+Madison smiled back. "Hey, if you ever want to talk about what's going on with you ... let me know."
+
+Jeff turned and nodded his head. "Will do chief, thanks." He exited her quarters.
+
+Madison sat down on her couch. It had been quite a day. "Computer, shut off the lights." She ordered. Madison would
+go to bed eventually, but now she just wanted to sit in the dark for a while. Life was getting hard. She had to
+find a way to deal with it.
+
+\center The End

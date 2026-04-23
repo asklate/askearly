@@ -184,6 +184,9 @@ $selected = "story";
 
         <p>307 <a href="docs/alliances/300/307-secrets.pdf" target="_blank">Secrets</a>
             Everyone has a secret or two, Crimson Gamma is no different.</p>
+
+        <p>308 <a href="docs/alliances/300/308-untapped-potential.pdf" target="_blank">Untapped Potential</a>
+            Jeff is going through one hell of a day when he starts manifesting powers.</p>
     </div>
 </div>
 
