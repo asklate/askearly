@@ -35,6 +35,8 @@ $selected = "dad";
             Memories.</p>
         <p><a href="docs/dad/2026/2026-04-12.pdf" target="_blank">April 12, 2026</a>
             Missing my dad in a big way tonight.</p>
+        <p><a href="docs/dad/2026/2026-04-25.pdf" target="_blank">April 25, 2026</a>
+            Just frustrated and don't know what to do.</p>
     </div>
 
 </div>
