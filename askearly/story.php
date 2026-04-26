@@ -51,6 +51,9 @@ $selected = "story";
 
         <p><a href="docs/thoughts/simulation.pdf" target="_blank">Life is a Simulation</a>
             Some thoughts on how life isn't what we think it is.</p>
+
+        <p><a href="docs/thoughts/2026/04/family.pdf" target="_blank">Family</a>
+            Ties of Blood and Water.</p>
     </div>
     <div class="column">
         <h2>2026</h2>
