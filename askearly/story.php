@@ -49,8 +49,13 @@ $selected = "story";
         <p><a href="docs/thoughts/voices-and-hallucinations.pdf" target="_blank">Voices and Hallucinations</a>
             Just some thoughts on hearing voices and seeing things.</p>
 
-        <p><a href="docs/thoughts/simulation.pdf" target="_blank">Life is a Simulation</a>
-            Some thoughts on how life isn't what we think it is.</p>
+        <dl>
+            <dt>Simulated Life</dt>
+            <dd><a href="docs/thoughts/simulation.pdf" target="_blank">Life is a Simulation</a>
+                Some thoughts on how life isn't what we think it is.</dd>
+            <dd><a href="docs/thoughts/2026/04/why-this-life.pdf" target="_blank">Why This Life</a>
+                A Simple Simulation.</dd>
+        </dt>
 
         <p><a href="docs/thoughts/2026/04/family.pdf" target="_blank">Family</a>
             Ties of Blood and Water.</p>
