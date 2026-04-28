@@ -24,7 +24,8 @@
     <p><a href="https://www.startrek.com">Star Trek</a><br>
         <a href="https://www.raymondcamden.com">Raymond Camden</a><br>
         <a href="https://wilwheaton.net/">Wil Wheaton</a><br>
-        <a href="https://dreamsense447.blogspot.com">Blog</a/p>
+        <a href="https://dreamsense447.blogspot.com">Blog</a><br>
+        <a href="http://dream.askearly.net">DreamSense</a></p>
   </div>
 </div>
 
