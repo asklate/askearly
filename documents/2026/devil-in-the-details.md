@@ -267,3 +267,14 @@ wondered if she was playing sick or if she really was sick. Time would tell.
 
 Greg was about to look at another file when something caught his eye. It appears two years ago, Earl was caught
 up in a massive cover-up. It wasn't anything Earth shattering, but it was important enough to include the police.
+Earl had been caught up in a scandal. He told the police and they got involved. Earl lost his job at that point,
+he looked to other branches of the government to work for, and they accepted him on one condition. That he not
+screw up again.
+
+Ever since that incident, the government wsa watching Earl closely. So close that he didn't know about it. Greg
+had to warn him somehow. He had to find a way without letting him know he had looked into his file. But that would
+be impossible at this point. Greg was between a rock and a hard place. On one hand he wanted to help Earl, on the
+other hand he didn't want to hurt Earl. It was a two-edged sword, this information he knew.
+
+Closing the file, Greg left his timeship and walked home. It was cool that night, it felt great against his skin.
+He would figure out what to do with Earl in the morning. There was still time.
