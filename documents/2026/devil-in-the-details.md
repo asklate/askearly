@@ -154,3 +154,116 @@ Eight o'clock rolled around. Greg clocked out and made a beeline for the door. T
 the front doors to the store and walked quickly to his car, a 2025 Mazda. It felt like a practical choice when he
 made the decision to buy a vehicle. Greg had ridden the bus the rest of the time he was in this time, well he had
 grown tired of the bus system and wanted to drive himself. So he got a car.
+
+Driving to Linda's house, Greg hoped she was okay. He had tried calling and texting her throughout the day but
+there was no answer of any kind. He was worried about Linda. It was unlike her not to show up to work; and considering
+how well the previous night went, he thought she would have shown up to at least see him.
+
+Twenty minutes later, Greg arrived at Linda's house. The lights were off. It was dark inside. The porch light was
+on, however. Maybe she was just in bed trying to sleep? He didn't know. Getting out of his car, Greg ran up the
+sidewalk and steps up to her porch. He knocked on the door.
+
+A living room light turned on. She was home. Greg smiled as he waited for Linda to answer the door.
+
+The door creaked slowly open about two inches. Just enough for Linda to peek out and see who it was. "Go away." She
+said to Greg once she saw it was him.
+
+Greg was taken aback by her statement. What had transpired between that morning and now? He had to know.
+"Linda, it's me Greg. Can we at least talk?" Greg asked, he smiled his best smile.
+
+Linda shook her head. "I'm not feeling well, I think I have Covid. I don't want to get you sick. Please go away."
+She began to shut the door.
+
+Greg put his foot in front of the door preventing Linda from shutting it. "Can I get you anything? Soup? Crackers? 
+Anything at all?" Greg asked sincerely. He didn't want to see her sick with anything. Covid was the last thing he
+wanted her to have. It was a nasty bug.
+
+Linda thought about it for a moment, "No, I'm good. Thank you." She pushed on the door moving Greg's foot aside.
+The door slammed shut. Then came the sound of the door locking.
+
+Greg turned around and walked back to his car slowly. He was hoping Linda would change her mind and invite him in.
+No such luck. Getting into his car, he drove away back to his apartment.
+
+# Chapter Three
+
+## 1
+
+A month passed. Greg hadn't heard from Linda during that whole month. She didn't show up for her shifts and had called
+in indefinitely. Greg hoped she worked out something with Hank, the manger, or else she would be in some deep doo, doo.
+He was never one for swearing.
+
+Greg was sweeping up the shop when an unfamiliar face entered the store. Being a small town, everyone knew everyone.
+It wasn't likely they received out of town visitors, not to a hardware store at least. Greg walked up to the man
+and introduced himself.
+
+"Hello, welcome to Hardware Hank's." Greg said. "Name's Greg. May I help you find something?"
+
+The man smiled and reached out his hand for Greg to shake it. "Names Earl." He said. Greg shook the man's hand. "I've
+been looking for *you* Greg." He said not letting go of Greg's hand. Earl lowered his voice to a whisper. "I know when
+you came from." He added as he let go of Greg's hand.
+
+Greg recoiled like he had been bitten by a snake. In his five years of living in town, no one had ever put two and two
+together and noticed that Greg was not from their time. He looked at Earl and stared him down. Greg did not like where
+this conversation was heading.
+
+"Mind if we talk outside?" Earl said. "I'd rather this conversation be somewhat ... confidential. If you catch my
+drift." He smiled. Earl had a silver tooth that shined as he smiled. Greg didn't like it one bit.
+
+"After you." Greg said as he gestured to the door.
+
+They walked outside, Greg walked carefully not taking his oyes off Earl, if that was in fact his name. Once they
+were outside of earshot of anyone in the store, Earl eased up a bit.
+
+"What's this about?" Greg asked.
+
+Earl smiled. "It's simple, you're from the future. I want details on the future. Starting with your time machine."
+
+Greg shook his head. "Nah man, I can't do that." He said. "People shouldn't know about the future, especially their
+own. There are records in that ship, that if they were to be released in 2026? We'd be in some serious trouble. I
+don't want that on my conscience, do you?"
+
+Earl rubbed his chin for a moment and then sighed. "No, I suppose not. Look, I didn't mean to scare you. I just
+was interested ya know? I won't bother you again, I promise." He started to walk away.
+
+"Hey!" Greg called after him. "How did you know about when I'm from?"
+
+Earl turned around. "Top secret government thing. You should hide your location better." He said. "I can help you
+with that ... if you'd like."
+
+Greg hesitated. "You work for the government, and you have a mission, and you want to *help* me stay hidden from 
+*them*?" He asked making sure he understood Earl's intentions.
+
+Earl nodded. "Yeah, something like that. What do you say?"
+
+Greg continued to hesitate. It wasn't every day that someone claimed to know he wa from the future. "What's in it
+for you?" He was genuinely curious about Earl's motives. Everyone had an ulterior motive somewhere waiting to come
+forth.
+
+Earl shuffled his feet. "Look, the government isn't all it's cracked up to be. Call me a whistleblower, or something.
+I just want to help. They're tracking people, I've pulled your file from the pile. So they shouldn't be looking
+for you anytime soon. But that won't last forever." He paused. "Do we have a deal?" Earl held out his hand again.
+
+Greg shook Earl's hand. "Yeah, we have a deal." He smiled.
+
+## 2
+
+The next day, Greg visited his timeship. He ran a search for Earl. Greg didn't have a last name, so the best he could
+do was search all government databases for the man. By his time certain information had been declassified, especially
+those files that occurred during the early two thousands.
+
+After going through several dozen files, Greg came up with the file he was looking for. The man's fill name was Earl
+Gibson. *Well he's not lying about his name.* Greg thought. *Or the fact that he works for the government.* Earl was
+indeed a whistleblower. It wouldn't happen for another two years in 2028, but he managed to bring about some crazy
+stuff to the surface. Things the government didn't want him to shed a light on.
+
+Earl would spend twenty years in prison for calling out what he knew. Not that great of a way to spend the best
+part of your life. But it was what it was. Greg couldn't change the timeline, he promised himself he wouldn't allow
+himself to do that. It would be wrong on so many levels. He wished he could help Earl and make it so he didn't end
+up in prison, but that wasn't going to be an easy task.
+
+It seemed like Greg could trust the man, that was a good sign. There were very few people Greg could trust. He had to
+make sure Linda was safe before he had asked her out, and look how *that* turned out. She was sick. Greg still 
+wondered if she was playing sick or if she really was sick. Time would tell.
+
+Greg was about to look at another file when something caught his eye. It appears two years ago, Earl was caught
+up in a massive cover-up. It wasn't anything Earth shattering, but it was important enough to include the police.
