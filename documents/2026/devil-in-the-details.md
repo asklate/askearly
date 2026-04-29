@@ -278,3 +278,143 @@ other hand he didn't want to hurt Earl. It was a two-edged sword, this informati
 
 Closing the file, Greg left his timeship and walked home. It was cool that night, it felt great against his skin.
 He would figure out what to do with Earl in the morning. There was still time.
+
+## 3
+
+The next morning, Greg woke up to a gun pointed in his face. "Rise and shine." Ear's voice said.
+
+Greg wiped the sleep from his eyes. *What the hell was going on?* He wondered. "Earl?" Greg asked still groggy
+from being woken up without his consent. "What are you doing here man?"
+
+Earl wasn't smiling. He wasn't the same man Greg met two nights before. Something had changed. Something was way
+different about him. Greg didn't like this side of Earl. Not one bit.
+
+"Doesn't matter. You are going to take me to your time travel device. Or whatever it is you call it. Now!" Earl 
+yelled. He wasn't playing games. No, Earl meant business.
+
+"How did you even get in here?" Greg asked.
+
+"You'd be surprised what twenty years as a government, covert, black ops officer can teach a man." Earl smirked.
+"Your door lock was nothing. Now are you going to take me to your time travel device or not?!"
+
+Greg nodded his head. "Yeah man, yeah." He stood up and got dressed quickly. Slipping on his sneakers, he walked
+towards the front door of his apartment. *I need to invest in better locks or a security system.* Greg thought.
+As they descended the stairs from the second story, Greg thought about abruptly stopping and throwing an elbow right
+into Earl's gut. But Earl had the gun, there was no telling what would happen. Greg decided against it.
+
+They continued walking down the stairs.
+
+"You're making a big mistake." Greg said. "I hope you realize that." He frowned at the thought. Earl didn't know
+what his future held. He didn't know about the file that contained his life story. There were so many things he
+just didn't know. Too many variables were in play, if Greg upset any one of them, it would change the future as
+he knew it. He couldn't risk that.
+
+Walking out to Greg's car, Earl ordered him to get in the driver’s seat. Greg thought about taking off, but again
+Earl had the gun. He could shoot his car and him in the process. Greg did as he was ordered to. Earl sat in the
+passenger seat, he pointed the gun at Greg at a low angle so any passerby couldn't see it. "Drive." He ordered.
+
+They drove for twenty minutes to an abandoned warehouse. Greg let go a sigh. *Here we go.* He thought.
+
+# Chapter Four
+
+## 1
+
+The warehouse had been empty for years. No one had bothered to check up on it since it had been closed down. It once
+held a shoe construction plant. A noe so well known brand, something rather obscure. Maybe that's why it went off the
+market after two years. It was the perfect place to hide a timeship.
+
+Opening the large door, Greg and Earl walked inside the warehouse. It smelled of dust and rotting wood. Anyone who
+wanted to even look at the place would have to wear a breathing apparatus to check it out.
+
+Greg stepped up to ... well nothing ... and placed his hand on thin air. A panel appeared beneath his hand and
+glowed an amber color. "Fingerprint and handprint verified. Welcome, Greg." A female mechanical voice said. His
+timeship appeared out of nowhere. Earl took a step back at the sight. It wasn't a massive ship, about the size of
+an ice cream truck. But it was very impressive.
+
+"Oh my." Earl said. "It's true."
+
+Greg turned to face Earl, the expression on his face was that of *you're kidding me right now, right?* He couldn't
+believe his ears. It appeared that Earl didn't believe his own sources, he had to see for himself that it was real.
+
+Greg began second guessing his life choices at that moment, he could have fooled Earl into thinking a telephone booth
+was a timeship. But no, he had to take him to the actual live thing. A rookie mistake. Oh well, it was too late now.
+Earl had seen the timeship, there was only one thing to do now. Let him go inside. Greg's life was still in danger.
+
+A door opened allowing the two men access. Greg stepped inside first, followed by Earl. "Don't touch anything." Greg
+said. "I just got the seats cleaned and the computer panels polished. I don't need your greasy fingertips all over
+them. Not to mention you don't know what you're doing."
+
+Earl nodded. "I won't touch anything, I promise." He said. Greg had to believe him as he had no choice.
+
+"Alright." Greg said. He sat down in a chair and faced the computer console. Touching the panel in front of him,
+the computer came to life. "I have billions of files at my disposal." He said. "All from the time from Lincoln's
+Assassination to my present day. We don't have much before Lincon's Assasination, we believe that's when time
+diverged and everything ... changed."
+
+Earl chuckled. "Lincoln's death changed thw world, huh?" He shook his head. Earl couldn't believe one event could
+have such a cosmic impact on the future. But that's what Greg was telling him. "You said you have billions of files,
+let me see mine."
+
+And there it was.
+
+Greg sighed as he pulled up Earl's file. Before opening the file, he cautioned Earl. "No one should know too much about
+their own future Earl. There's still time to back out." Greg said. He hoped Earl would listen to him, but that didn't
+seem possible.
+
+Earl pressed the gun against Greg's neck. The barrel felt cold against his skin. "Open the file." He demanded.
+
+Greg did as he was told. The file opened, Earl's life was laid out before them. Earl began reading. He was amazed
+at how detailed the report was. It even went as far as listing the D he got in History back in seventh grade. Talk
+about a meticulous report. He gasped at some of the other things it said about him. Things that had yet to come true.
+"I'm going to have a wife and a kid?" He asked.
+
+Greg nodded. "Yep, too bad you'll be in prison for most of your son's life."
+
+"What?" Earl asked.
+
+Greg sighed. "Oh, you haven't read that far yet. Carry on."
+
+Earl continued to read. The further he went down the rabbit hole the further engrossed he got. "You have got to
+be kidding me!" He exclaimed. "I go to prison because I blow open something that should be public knowledge to
+begin with? That's insane!" He turned his back on Greg and the computer screen holding his life's file.
+
+Greg nodded. "Yeah, it's not pretty." He said. "Twenty years. But you do get out on good behavior. If that helps
+any." It did not. Earl stormed back and forth, he was upset. "I told you, you shouldn't know about your future
+Earl." Greg reminded him. "It only leads to trouble."
+
+"That part about me going to prison for being a whistleblower. It happens in two years. I have all the 
+information gathered already. I could act tomorrow if I wanted to. But I have two years to figure out a way to 
+get out of it." Earl said. Hoping, since he now knew the future, he could change events.
+
+Greg shook his head. "That's the thing man, the timeline can't be changed. What has happened will always happen.
+What will happen will always happen. There is simply no changing it. It can't be messed with. It pushes back in
+a way you never expect. If you try and change your future, you'll only make it worse."
+
+Earl frowned. "Maybe so, but at least I will have tried." He paused thinking about the file. "Can you get me a
+hard copy of that file?" He asked.
+
+Greg hesitated. He didn't want to give Earl a hard copy, but well Earl still had the gun. He had to do what he said.
+"You still use DVDs for storing data in this time?"
+
+Earl nodded. "Yeah. I have a DVD reader on my laptop."
+
+Greg smiled. "Alright, I'll burn you a copy." He entered a few commands into the computer and watched as a DVD was
+manufactured and then written to. Once the process was complete, he handed it to Earl. "Please don't do anything
+stupid. I'd hate for the time police to  show up and arrest me."
+
+Earl lowered his gun. "It's not even loaded." He said. "I just wanted to scare you." Looking at the DVD he smiled.
+"Thanks. I appreciate it."
+
+Greg frowned. "I guess our partnership is over. Our agreement is dissolved."
+
+Earl shook his head. "No man, I'll still help you. I don't want to see your future fall apart like it did. We can
+change the future, you and I. You just have to believe."
+
+Greg tried to argue the point that the future couldn't be changed. But he didn't have the full knowledge that it
+was even a true statement. "Alright." He agreed. "Still partners. But again, don't do anything stupid."
+
+Earl smiled and slapped Greg on the back. "I won't."
+
+They left the timeship and watched as it disappeared again under its cloak of invisibility.
+
+## 2
