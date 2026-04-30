@@ -475,8 +475,16 @@ Hank nodded. "I wished things would have worked out differently." He turned and 
 
 "Right." Greg said to himself. He walked through the store for the last time. Passing the cash register he didn't
 even look at Linda. He was ashamed of being fired. Greg didn't want to talk to anyone right now. It would take a
-while for him to trust anyone. Being fired from his job was probably the worst thing to have happened him since
-coming to this century. Greg was mad. He wanted to find out who set him up. He wouldn't rest until he figured
+while for him to trust anyone. Being fired from his job was probably the worst thing to have happened to him since
+coming to this century. Greg was mad. He wanted to find out who set him up. Greg wouldn't rest until he figured
 that out.
 
 ## 3
+
+Walking home, Greg left his car at work. The fresh air would do him some good. He needed to get his mind off of
+what had just happened. Maybe when he got home he would turn on the television and catch up on his latest 
+binge-watching of Superman. It was the 50s version, kinda corny in his opinion, but it was entertainment.
+
+The sky looked kinda gray that day. It was fitting for the hell Greg was going through. As he walked, it began
+to rain. *Just great.* Greg sighed. *Just what I need.* He kept walking as water fell from the sky soaking him
+wet.
