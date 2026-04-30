@@ -418,3 +418,65 @@ Earl smiled and slapped Greg on the back. "I won't."
 They left the timeship and watched as it disappeared again under its cloak of invisibility.
 
 ## 2
+
+Two days later, Greg hadn't heard from Earl. He wondered if Earl was doing something stupid. Greg shook his head.
+*Man I really hope he's not doing something stupid.* He thought. There was no way of telling what Earl was going to
+do with the information Greg had given him. It was life changing stuff on that DVD. Greg didn't even have a phone
+number for Earl. How was he supposed to get in contact with him? Greg didn't have a clue. So, he just went to work
+like usual.
+
+Walking into work, Greg saw Linda at the cash register. He smiled at her. "Hey you."
+
+Linda smiled back. "Hey!" She exclaimed. "Sorry about the other day, I was just so sick. I literally wanted nothing
+to do with anyone. I hope you can understand."
+
+Greg smiled. He understood alright. There were times he didn't want to deal with people either. But he was working
+in customer service. It was a tricky road, that which he walked. "No worries." He said. "I'm glad you're feeling
+better."
+
+"Oh good." Linda said. "I was afraid I scared you off."
+
+Greg chuckled to himself. "No, no, you didn't scare me off. I was just worried about you is all."
+
+"I know." Linda agreed. "You're a good man, I don't deserve you."
+
+Greg smiled. "We'll see what happens from here, okay?"
+
+Linda nodded. "Yeah, that sounds good."
+
+Greg turned to go to the back, he had to clock in and do the usual things before starting his shift. Looking around,
+Greg noticed his timesheet was nowhere to be seen. How was he supposed to clock in? He looked on the floor under
+the table, it wasn't there. It wasn't on the table either and definitely wasn't in the timecard holder attached
+to the wall.
+
+"Lose something?" Hank said walking into the room.
+
+Greg nodded. "Yeah, my timecard is missing ... you didn't fire me, did you?" He laughed.
+
+Hank didn't laugh back. His face was quite serious. "There's been a complaint against you." He said. "There's also
+money missing from the till. You locked up last night and was the last one in the store. Everyone else has denied
+getting into the cash register. I uh ..." His voice trailed off.
+
+Greg gasped. "Oh my gosh, you *are* firing me." He paused. "I didn't steal from you."
+
+Hank folded his arms and shook his head. "I can't prove you did or didn't. I can only see the logical answer, that
+you *might* have. I can't have that kind of liability around the store. I just can't change it. I've cut you your
+last paycheck, and you're free to go." He handed Greg an envelope.
+
+Greg took the envelope and opened it. Sure enough, it was his last paycheck. Hank was kind enough to include that
+day's pay even though he knew Greg wouldn't be working the full day. He doubted he could file for unemployment,
+they would contact Hank and ask why he was fired. Hank would tell the truth, that he thought he stole money. It would
+go nowhere good. Greg decided not to even try to file for unemployment. His best plan was to just cut his losses
+and go.
+
+"I'll be going now." Greg said.
+
+Hank nodded. "I wished things would have worked out differently." He turned and walked back to his office.
+
+"Right." Greg said to himself. He walked through the store for the last time. Passing the cash register he didn't
+even look at Linda. He was ashamed of being fired. Greg didn't want to talk to anyone right now. It would take a
+while for him to trust anyone. Being fired from his job was probably the worst thing to have happened him since
+coming to this century. Greg was mad. He wanted to find out who set him up. He wouldn't rest until he figured
+that out.
+
+## 3
