@@ -2,6 +2,8 @@
 title: Premortal Existence
 author: Kyle Eggleston
 date: Friday, May 1, 2026
+indent: true
+linestretch: 2
 ---
 
 # Before The Beginning
