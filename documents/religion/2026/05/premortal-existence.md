@@ -51,7 +51,8 @@ In Moses Chapter 4:1-4 we read:
 
 > And I, the Lord God, spake unto Moses, saying: That Satan, whom thou hast commanded in the name of mine Only Begotten,
 > is the same which was from the beginning, and he came before me, saying—Behold, here am I, send me, I will be thy son,
-> and I will redeem all mankind, that one soul shall not be lost, and surely I will do it; wherefore give me thine honor.
+> and I will redeem all mankind, that one soul shall not be lost, and surely I will do it; wherefore give me thine
+> honor.
 >
 > But, behold, my Beloved Son, which was my Beloved and Chosen from the beginning, said unto me—Father, thy will be
 > done, and the glory be thine forever.
@@ -68,5 +69,21 @@ In that first verse of Chapter four, we find out some interesting things about S
 1. He would become God's chosen son.
 2. He wanted to redeem all mankind, that no one would be lost. Taking away our agency.
 3. He wanted all the glory for himself.
+
+We have a record of a "War in Heaven" from the Book of Revelations 12:7-9:
+
+> And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,
+>
+> And prevailed not; neither was their place found any more in heaven.
+>
+> And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he
+> was cast out into the earth, and his angels were cast out with him.
+
+This too states that Satan was cast down to Earth with his angels. Here they cannot receive bodies and are spirits.
+The Devil and his Angels are here to torment man, they want us to be miserable like they are. They will stop at
+nothing to see our downfall and demise.
+
+But here's the catch. With God on our side, we have nothing to fear regarding the Devil. He has no power over us.
+Only if we give him power over us will he have that power,
 
 [^1]: Genesis 1:26-27
