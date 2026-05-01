@@ -96,6 +96,7 @@ $selected = "religion";
         <p><a href="docs/religion/2026/04/aof07.pdf" target="_blank">Article of Faith 7</a></p>
         <p><a href="docs/religion/2026/04/aof08.pdf" target="_blank">Article of Faith 8</a></p>
         <p><a href="docs/religion/2026/04/cant-say-mormon.pdf" target="_blank">Can't Say Mormon</a></p>
+        <p><a href="docs/religion/2026/05/2-nephi-5.pdf" target="_blank">2 Nephi 5:21-23</a></p>
     </div>
 </div>
 
