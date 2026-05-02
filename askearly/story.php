@@ -74,6 +74,9 @@ $selected = "story";
         <p><a href="docs/2026/the-meeting.pdf" target="_blank">The Meeting</a>
             Several people living in the same house under the same roof interact with each other.</p>
 
+        <p><a href="docs/2026/nothing-known.pdf" target="_blank">Nothing Known</a>
+            Something ... quite different ... you'll just have to read it.</p>
+
         <h2>2025</h2>
         <p><a href="docs/2025/shadows.pdf" target="_blank">Shadows</a>
             Nothing is ever as it seems.</p>
