@@ -30,6 +30,7 @@ $selected = "religion";
         <p><a href="docs/religion/sources/swedish-rescue-2010.pdf" target="_blank">2010 Sweden Fireside (Swedish Rescue)</a></p>
         <p><a href="docs/religion/sources/swedish-rescue-2018.pdf" target="_blank">2018 Sweden Fireside (Swedish Rescue Follow-up?)</a></p>
         <p><a href="docs/religion/sources/boise-rescue-2015.pdf" target="_blank">2015 Boise Fireside (Boise Rescue)</a></p>
+        <p><a href="docs/religion/sources/fourteen-articles-of-faith.pdf" target="_blank">Fourteen Articles of Faith</a></p>
     </div>
     <div class="column">
         <h3>2018</h3>
