@@ -2,7 +2,7 @@
 title: No Sleep
 author: Kyle Eggleston
 date: Sunday, May 3, 3036
-keywords: [mental illness]
+keywords: [mental illness, manic, mania]
 ---
 
 I don't want to go to sleep tonight. I'm not sure why, but I have this fear that if I fall asleep I might not
