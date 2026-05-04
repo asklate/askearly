@@ -266,13 +266,42 @@ until the debris was cleared or the mine was closed and a new mine was carved ou
 They decided to grab a drink or six. I was astonished. Luckily no one was hurt in the collapse. They managed
 to get the miners out to safety quickly.[^7]
 
-3.20 I learned how to make myself "age". I bought some supplies that helped me change the appearance of my face
+3.20 When 1860 rolled around, there was talk of an upcoming Civil War between the North and the South. I set out
+to fight in it. I was killed on the battlefield many times, too many to count. It was one bloody massacre after
+another one. Doctors would finish cutting the leg off of one wounded soldier, wipe the saw on their bloody apron, 
+and start cutting into another man. Like I said it was a bloody ordeal.
+
+3.21 As the war was coming to an end, Lincoln signed the Emancipation Proclamation in 1863. It declared that 
+all enslaved people in Confederate states still in rebellion "are, and henceforward shall be free" It was the
+first step in freeing the slaves in the south.
+
+3.22 After the war was finished in 1865, I made my way back to San Francisco and retook my job I had before the
+blasted war had began. I had been through a lot. I didn't want to discuss it with anyone. So I kept to myself
+regarding the war. It was a complete mess. I tried to get back to normal life, but the nightmares wouldn't go
+away.
+
+3.23 I learned how to make myself "age". I bought some supplies that helped me change the appearance of my face
 over the years. Even managed to turn my hair a little white, I said it was from stress. People didn't question me,
 I was just another one of them. I managed to stay in San Francisco for thirty years tending the same bar until I
 grew bored with it. In 1880, I decided to pack up my things and move on. It was time to move on. I had my fill of
 San Francisco.
 
+3.24 Before leaving San Francisco, I went to the ocean and gathered some sand in a small glass vial. A momento of
+my time spent there.
+
 # Chapter Four
+
+4.1 I moved to Georgia. Once I got there, I immediately went to the ocean and gathered some sand there as well. Now
+I had sand from both the Pacific and Atlantic Oceans. It sounds silly, I know, but it wasn't silly to me. It was
+just something I wanted to do.
+
+4.2 With my new location, I didn't have to wear the makeup to age myself. I could start fresh. I just had to
+do the math on when I was born because I was *still* only twenty-two, even though I had passed one hundred
+years quite a while ago.
+
+4.3 Even with the Civil War over and the slaves freed, there were still people who were mean against the black
+people. They felt they had no rights no matter what the President of the United States said. The whole ordeal
+made me angry. Why couldn't people just follow the president's order? It made no sense to me.
 
 [^1]: I looked up the history of the town and county in Florida and couldn't find them on *any* current map. Either
 the town was destroyed along with the entire county, or it never existed. I'm ont certain which is the case. Perhaps
