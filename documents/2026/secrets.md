@@ -1,6 +1,6 @@
 ---
 title: Secrets
-subtitle: Thoughts And Then Some
+subtitle: A Long Life Lived
 author: Kyle Eggleston
 date: Sunday, May 3, 2026
 indent: true
@@ -247,6 +247,33 @@ and I died while Ethan was in my home? How would I explain *that* to him? I didn
 allowing him to stay in my home was a bad idea. But I was stuck with him for the night and stuck with whatever
 consequences came from it. I was terrified.
 
+3.16 We ended staying up all night and simply talking. Not once did he bring up the mobs he had been part of.
+I'm questioning if he was ashamed of it all. I can't say for certain, but I know if I had been part of that
+misery, I would have major regrets. Instead, we talked about his childhood and upbrining making him the man
+he was at that time. It was enlightening.
+
+3.17 When morning came we parted ways. He grabbed what little possessions he had and went on his way. I don't know
+where he went, but I never saw him again. It was a quaint meeting, that was for sure. I went to see the local
+pharmacist to see if there was anything they could give me to keep me awake. Unfortunately they had nothing. A
+shame really.[^6]
+
+3.18 At noon I went back to work. Walking into the saloon I saw something that I hadn't seen the entire time I
+had been in the city. The saloon was full. I mean there was standing room only and even *that* was difficult to
+do. The main bartender had been called in to help cover until I got there. Going behind the bar, we exchanged words.
+
+3.19 I asked him what was going on. He told me there had been a mine collapse. That meant no one could go to work
+until the debris was cleared or the mine was closed and a new mine was carved out. So, people had nowhere to go.
+They decided to grab a drink or six. I was astonished. Luckily no one was hurt in the collapse. They managed
+to get the miners out to safety quickly.[^7]
+
+3.20 I learned how to make myself "age". I bought some supplies that helped me change the appearance of my face
+over the years. Even managed to turn my hair a little white, I said it was from stress. People didn't question me,
+I was just another one of them. I managed to stay in San Francisco for thirty years tending the same bar until I
+grew bored with it. In 1880, I decided to pack up my things and move on. It was time to move on. I had my fill of
+San Francisco.
+
+# Chapter Four
+
 [^1]: I looked up the history of the town and county in Florida and couldn't find them on *any* current map. Either
 the town was destroyed along with the entire county, or it never existed. I'm ont certain which is the case. Perhaps
 it was simply erased from history? Is that even possible? I'm not sure. If that *is* the case, then someone went
@@ -265,3 +292,8 @@ for sure. Later they struck oil, making them even richer. No one could touch the
 off the police to look the other way too. But those illegal activities didn't occur until much later in the 1900s.
 I don't know *why* they did what they did, but I believe their family was one of the first mob families to have
 been created. -Ed
+[^6]: A shame John couldn't just grab a Coke, but that wouldn't be invented until 1886 in Georgia. -Ed
+[^7]: I searched for a mine collapse around the time John was in San Francisco and cannot find *any* documentation
+regarding the incident. Either he made it up, which I doubt, or it was not published anywhere. Not even the local
+town paper, which I find to be an odd occurance. One would think something of that magnitude would haee gathered
+*some* attention, but it didn't. -Ed
