@@ -243,7 +243,9 @@ sleep over at my place for the night. He could figure things out in the morning.
 3.15 We walked to my small apartment. It wasn't anything special. I had a couch Ethan could sleep on. He was so
 grateful just to have a place to sleep that night. Ethan was tired, he laid down on the couch and fell asleep
 almost immediately. I, on the other hand, had a bout of severe insomnia. What if something were to happen to me
-and I died while Ethan was in my home? How would I explain *that* to him? I didn't want to find out.
+and I died while Ethan was in my home? How would I explain *that* to him? I didn't want to find out. I decided that
+allowing him to stay in my home was a bad idea. But I was stuck with him for the night and stuck with whatever
+consequences came from it. I was terrified.
 
 [^1]: I looked up the history of the town and county in Florida and couldn't find them on *any* current map. Either
 the town was destroyed along with the entire county, or it never existed. I'm ont certain which is the case. Perhaps
