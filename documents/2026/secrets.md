@@ -406,5 +406,5 @@ his grave. It wasn't easy always looking behind my back waiting for someone to s
 had full trust in Mark earlier. Then I would have known for sure that he wasn't out to get me. Waiting for
 someone to die, well that was hard. -JL
 [^10]: I can only imagine the relief John felt. Telling someone your secret, allowing someone else into your
-deep dark life has got to be something else. I don't have any experience in such things so I wouldn't know
+deep dark life has got to be something else. I don't have any experience in such things, so I wouldn't know
 how that would feel. But I can imagine. -Ed
