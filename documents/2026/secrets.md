@@ -301,7 +301,19 @@ years quite a while ago.
 
 4.3 Even with the Civil War over and the slaves freed, there were still people who were mean against the black
 people. They felt they had no rights no matter what the President of the United States said. The whole ordeal
-made me angry. Why couldn't people just follow the president's order? It made no sense to me.
+made me angry. Why couldn't people just follow the president's order? It made no sense to me. No matter where I 
+went I made it a point to be friendly to *everyone* no matter their skin color, their religion, whatever they were,
+they deserved respect. It's how I was brought up. This racism nonsense had to stop.[^8]
+
+4.4 I decided I needed a job in Georgia and a place to live. The typical survival methods I had grown accustomed
+to. During the Civil War I didn't have a problem with having a place to live. We lived in tents, and the food? Well
+if you can call it food. It was edible. I'll give it that. We worked with what we had, and it wasn't much. The war
+taught me how to rough it. In a way I'm glad I learned that lesson. It would serve me well over the many years.
+
+4.5 I found a job at a local pharmacy. I stocked their shelves with whatever shipments came in that day. It was
+an easy job, nothing too crazy. I was in Atlanta by this point in time, so the town was good size wise. There
+never seemed to be a dull moment. My place of employment? Jacobs' Pharmacy. It just felt like the right plafe for
+me to work. I was treated well and the pay was good too. What more could I ask for?
 
 [^1]: I looked up the history of the town and county in Florida and couldn't find them on *any* current map. Either
 the town was destroyed along with the entire county, or it never existed. I'm ont certain which is the case. Perhaps
@@ -326,3 +338,6 @@ been created. -Ed
 regarding the incident. Either he made it up, which I doubt, or it was not published anywhere. Not even the local
 town paper, which I find to be an odd occurance. One would think something of that magnitude would haee gathered
 *some* attention, but it didn't. -Ed
+[^8]: I would later learn it would never really stop. Here in 2026, we live in a world where racism is as ripe
+as it was back in the day. People can't seem to get over their prejudice for others. It's a sad state of affairs
+if you ask me. Something has to be done about it, what that is though? I don't know. -JL
