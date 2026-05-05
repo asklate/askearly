@@ -315,6 +315,66 @@ an easy job, nothing too crazy. I was in Atlanta by this point in time, so the t
 never seemed to be a dull moment. My place of employment? Jacobs' Pharmacy. It just felt like the right plafe for
 me to work. I was treated well and the pay was good too. What more could I ask for?
 
+4.6 One night, after work, I was walking home. I lived in a boarding house. That is, several bedrooms in one
+house each with a key to lock your room. Meals were prepared and served by the lady who owend the boarding house.
+The meals weren't free, but they were easy to pay for. Room and board was three dollars a month. Meals included was
+another fifty cents. Like I said, it was very respectible. The landlord, a Mrs. McConally, was nice. She was a
+widow. Her husband had died three years earlier, and she had been alone ever since. June *claimed* that she wasn't
+feeling lonely, but her eyes told a much different story. We became good friends.
+
+4.7 One friendship wasn't enough for me though. I wanted friends that I could go out and enjoy a drink with. People
+that I could bullshit with, about anything really. Whatever we decided to talk about, we would talk about. That's
+what I was missing in my life. I know I said I couldn't get close to anyone. But that didn't matter anymore to
+me. I needed friends.
+
+4.8 The next morning I asked the employees of the pharmacy. Some said yes, others said they weren't interested.
+That's okay, not everyone wants to spend time after work with those you work with. I didn't dare ask the pharmacist,
+I was sure he had better things to do than spending time in his off hours with his subordinates.
+
+4.9 The first night out, we stopped at the local watering hole and admired the scenery. That is, the ladies of
+the night. Greg decided to see what that was all about, we didn't see him for the rest of the evening. He would have
+to tell us the story the next morning.
+
+4.10 As we got our drinks, we sat down at a table. A poker game was being played nearby. The customers at the table
+were being quite loud about their hands. Each man boasting they had the winning hand. I kept glaring at them, but
+they continued carrying on. Damn people can't allow other people to enjoy a drink with their friends.
+
+4.11 Taking a sip of my whiskey I began to loosen up a little. I wasn't as mad as I had been. It was going to be
+a good night after all. So we talked. We talked about work, we talked about everything else. How the political
+climate was. Things had changed since Lincoln's assassination. That much was certain. It was almost 20 years ago
+now, but people still felt the sting of it.
+
+4.12 We talked late into the night. The saloon was closing for the night, and we had to leave. Probably for the
+best. Drinking the rest of my beer, I stood from the table. Wishing my companions a good evening, I headed out
+the door. That's when I saw *him*. Or rahter heard him.
+
+4.13 I'll never forget his words to me. "I know your secret." His voice trailed off as I turned to face the
+accuser. Walking up to him, I asked him to repeat himself. Which he did in the same ominous tone. "I know your
+secret." He locked eyes with mine. It had been awhile since I had died, there wasn't anyone in town who knew
+anything about me. Not that I knew of.
+
+4.14 I asked the stranger what he wanted of me. He didn't say anything ... at first. He only stared at me, like
+he was looking into my soul. Finally, he spoke. He asked what it felt like to die and then come to life again.
+Damn, he really did know my secret. I asked him if we could talk someplace a little more private. We went to his
+house on the edge of town.
+
+4.15 Once I was sure it was safe, and there wasn't an angry mob waiting to attack me, I walked inside his house
+and eased up a little. He offered me some coffee, I accepted. We sat in his parlor room enjoying our coffee. He
+asked me when I was born, I told him\. He was amazed at that. The fact that I was over one hundred years old, he
+was astonished. I wasn't one hundred percent sure this stranger wouldn't turn me over to the local authorities.
+Heaven knows what *they* would do to me. But something told me I could trust him.
+
+4.16 He told me his name was Mark. Now I don't know if that was his actual name or just an alias. I took it at
+face value and accepted that as his name. Mark promised not to harm me, he only wanted to know what I had 
+experienced over the years I had lived so far. So I told him. Hey, what else could I do? I just hoped he wasn't
+lying to me.[^9]
+
+4.17 As the night grew late, it was time for me to go home. Mark understood. He promised to keep my secret and
+said he would be in touch. There was so much more he wanted to know. One thing he did ask me was if I could tell
+the future. I told him the truth, the future was beyond me. I wouldn't know about the future until I lived it,
+just like anyone else. He seemed to accept that answer. I was grateful he didn't want to harm me. I breathed
+a sigh of relief.[^10]
+
 [^1]: I looked up the history of the town and county in Florida and couldn't find them on *any* current map. Either
 the town was destroyed along with the entire county, or it never existed. I'm ont certain which is the case. Perhaps
 it was simply erased from history? Is that even possible? I'm not sure. If that *is* the case, then someone went
@@ -341,3 +401,10 @@ town paper, which I find to be an odd occurance. One would think something of th
 [^8]: I would later learn it would never really stop. Here in 2026, we live in a world where racism is as ripe
 as it was back in the day. People can't seem to get over their prejudice for others. It's a sad state of affairs
 if you ask me. Something has to be done about it, what that is though? I don't know. -JL
+[^9]: I would find out later, much later, at his funeral that he wasn't lying. He indeed took my secret to
+his grave. It wasn't easy always looking behind my back waiting for someone to strike. I wish I would have
+had full trust in Mark earlier. Then I would have known for sure that he wasn't out to get me. Waiting for
+someone to die, well that was hard. -JL
+[^10]: I can only imagine the relief John felt. Telling someone your secret, allowing someone else into your
+deep dark life has got to be something else. I don't have any experience in such things so I wouldn't know
+how that would feel. But I can imagine. -Ed
